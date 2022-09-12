@@ -1,0 +1,725 @@
+{
+  "data" : {
+    "shelf" : {
+      "cachingPolicy" : {
+        "cache" : true,
+        "maxAge" : 0,
+        "type" : "RefreshWithCanvas"
+      },
+      "displayType" : "river",
+      "id" : "edt.col.62e955e1-dfde-42be-917d-896765bc168d",
+      "items" : [ {
+        "extendedMetadata" : {
+          "caption" : "NOUVEL ÉPISODE TOUS LES VENDREDIS",
+          "images" : {
+            "channelSplashWide" : {
+              "width" : 4320,
+              "height" : 1800,
+              "url" : "https://is2-ssl.mzstatic.com/image/thumb/Features122/v4/b2/c8/1f/b2c81f73-6e95-8765-6daa-77fbba760bde/e4870c48-7186-4ef4-80ca-a8bb7240fefe.png/{w}x{h}sr.{f}",
+              "joeColor" : "b:rgb(233,132,20) p:rgb(36,0,2) s:rgb(41,7,12) t:rgb(68,22,8) q:rgb(73,26,13)"
+            },
+            "posterArt" : {
+              "width" : 3840,
+              "height" : 2160,
+              "url" : "https://is5-ssl.mzstatic.com/image/thumb/YcQSUqeB4VQ-3hbeT_uTog/{w}x{h}.{f}",
+              "supportsLayeredImage" : true,
+              "joeColor" : "b:rgb(57,1,9) p:rgb(245,119,19) s:rgb(230,117,57) t:rgb(207,95,17) q:rgb(195,94,47)"
+            },
+            "channelSplashTall" : {
+              "width" : 1680,
+              "height" : 3636,
+              "url" : "https://is1-ssl.mzstatic.com/image/thumb/Features112/v4/3d/1a/d6/3d1ad6e8-0b43-79f1-c4c0-6d9bbe411238/daf4d743-d26b-405c-9ca7-0e7b744ecd67.png/{w}x{h}tc.{f}",
+              "joeColor" : "b:rgb(232,138,23) p:rgb(19,5,11) s:rgb(32,13,11) t:rgb(51,26,13) q:rgb(64,33,13)"
+            },
+            "singleColorContentLogo" : {
+              "width" : 4042,
+              "height" : 2427,
+              "url" : "https://is2-ssl.mzstatic.com/image/thumb/R3-v3HLPYw5tp27EL8Kx5A/{w}x{h}.{f}",
+              "joeColor" : "b:rgb(255,255,255) p:rgb(12,12,12) s:rgb(25,25,25) t:rgb(61,61,61) q:rgb(71,71,71)"
+            }
+          },
+          "longNote" : "La saga spectaculaire touche à sa fin."
+        },
+        "genres" : [ {
+          "id" : "umc.gnr.tv.drama",
+          "name" : "Drame",
+          "type" : "Genre",
+          "url" : "https://tv.apple.com/fr/genre/drame/umc.gnr.tv.drama"
+        } ],
+        "id" : "umc.cmc.3s4mgg2y7h95fks9gnc4pw13m",
+        "images" : {
+          "shelfImage" : {
+            "height" : 2160,
+            "isP3" : false,
+            "joeColor" : "b:rgb(57,1,9) p:rgb(245,119,19) s:rgb(230,117,57) t:rgb(207,95,17) q:rgb(195,94,47)",
+            "supportsLayeredImage" : true,
+            "url" : "https://is5-ssl.mzstatic.com/image/thumb/YcQSUqeB4VQ-3hbeT_uTog/{w}x{h}.{f}",
+            "width" : 3840
+          },
+          "shelfImageBackground" : {
+            "height" : 2160,
+            "isP3" : false,
+            "joeColor" : "b:rgb(244,159,25) p:rgb(30,11,7) s:rgb(48,17,13) t:rgb(73,41,10) q:rgb(87,45,16)",
+            "supportsLayeredImage" : false,
+            "url" : "https://is2-ssl.mzstatic.com/image/thumb/eNmGfFw28h0wRyjEHIaxmQ/{w}x{h}.{f}",
+            "width" : 3840
+          },
+          "transitionImage" : {
+            "height" : 3240,
+            "isP3" : false,
+            "joeColor" : "b:rgb(133,149,162) p:rgb(14,14,14) s:rgb(17,19,21) t:rgb(38,41,44) q:rgb(40,45,49)",
+            "supportsLayeredImage" : false,
+            "url" : "https://is2-ssl.mzstatic.com/image/thumb/rV4S9xWc5p3ow4CuIZ5sTg/{w}x{h}sr.{f}",
+            "width" : 4320
+          }
+        },
+        "isAppleOriginal" : true,
+        "releaseDate" : 1572566400000,
+        "secondaryActions" : [ "AddToUpNext" ],
+        "title" : "See",
+        "type" : "Show",
+        "url" : "https://tv.apple.com/fr/show/see/umc.cmc.3s4mgg2y7h95fks9gnc4pw13m"
+      }, {
+        "extendedMetadata" : {
+          "images" : {
+            "channelSplashWide" : {
+              "width" : 4320,
+              "height" : 1800,
+              "url" : "https://is2-ssl.mzstatic.com/image/thumb/Features126/v4/da/30/4f/da304f94-a73d-d354-1e73-bca7b552e713/Q1NXLVRWQS1XVy1TRVYxX01hcmtzLUhlYWQucG5n.png/{w}x{h}sr.{f}",
+              "joeColor" : "b:rgb(130,150,123) p:rgb(11,12,4) s:rgb(27,27,21) t:rgb(29,33,24) q:rgb(44,48,38)"
+            },
+            "posterArt" : {
+              "width" : 3840,
+              "height" : 2160,
+              "url" : "https://is2-ssl.mzstatic.com/image/thumb/78-I7VenST4ztZYfwMf6AQ/{w}x{h}.{f}",
+              "supportsLayeredImage" : true,
+              "joeColor" : "b:rgb(153,167,150) p:rgb(13,15,6) s:rgb(22,24,15) t:rgb(41,45,35) q:rgb(48,53,42)"
+            },
+            "channelSplashTall" : {
+              "width" : 1680,
+              "height" : 3636,
+              "url" : "https://is3-ssl.mzstatic.com/image/thumb/Features126/v4/2b/74/49/2b7449f2-f983-3b2c-6a6b-8ed2a26d12e7/Q1NULVRWQS1XVy1TRVYxX01hcmtzLUhlYWQucG5n.png/{w}x{h}tc.{f}",
+              "joeColor" : "b:rgb(90,111,90) p:rgb(3,3,1) s:rgb(11,12,11) t:rgb(19,22,18) q:rgb(23,27,23)"
+            },
+            "singleColorContentLogo" : {
+              "width" : 7095,
+              "height" : 1176,
+              "url" : "https://is2-ssl.mzstatic.com/image/thumb/scWVLKF-KZ5amwgQrFO2jw/{w}x{h}.{f}",
+              "joeColor" : "b:rgb(255,255,255) p:rgb(12,12,12) s:rgb(25,25,25) t:rgb(61,61,61) q:rgb(71,71,71)"
+            }
+          },
+          "longNote" : "Nomination pour 14 Emmy®, dont Meilleure série dramatique."
+        },
+        "genres" : [ {
+          "id" : "umc.gnr.tv.thriller",
+          "name" : "Thriller",
+          "type" : "Genre",
+          "url" : "https://tv.apple.com/fr/genre/thriller/umc.gnr.tv.thriller"
+        } ],
+        "id" : "umc.cmc.1srk2goyh2q2zdxcx605w8vtx",
+        "images" : {
+          "shelfImage" : {
+            "height" : 2160,
+            "isP3" : false,
+            "joeColor" : "b:rgb(153,167,150) p:rgb(13,15,6) s:rgb(22,24,15) t:rgb(41,45,35) q:rgb(48,53,42)",
+            "supportsLayeredImage" : true,
+            "url" : "https://is2-ssl.mzstatic.com/image/thumb/78-I7VenST4ztZYfwMf6AQ/{w}x{h}.{f}",
+            "width" : 3840
+          },
+          "shelfImageBackground" : {
+            "height" : 2160,
+            "isP3" : false,
+            "joeColor" : "b:rgb(209,214,205) p:rgb(23,31,34) s:rgb(34,40,44) t:rgb(60,67,68) q:rgb(69,75,76)",
+            "supportsLayeredImage" : false,
+            "url" : "https://is1-ssl.mzstatic.com/image/thumb/QWgRnDdGgq1CcJ7QXTA42g/{w}x{h}.{f}",
+            "width" : 3840
+          },
+          "transitionImage" : {
+            "height" : 3240,
+            "isP3" : false,
+            "joeColor" : "b:rgb(2,35,46) p:rgb(203,177,152) s:rgb(213,174,132) t:rgb(163,148,131) q:rgb(171,146,115)",
+            "supportsLayeredImage" : false,
+            "url" : "https://is5-ssl.mzstatic.com/image/thumb/W9EUxTdByWYLnSERLSyfxw/{w}x{h}sr.{f}",
+            "width" : 4320
+          }
+        },
+        "isAppleOriginal" : true,
+        "releaseDate" : 1645142400000,
+        "secondaryActions" : [ "AddToUpNext" ],
+        "title" : "Severance",
+        "type" : "Show",
+        "url" : "https://tv.apple.com/fr/show/severance/umc.cmc.1srk2goyh2q2zdxcx605w8vtx"
+      }, {
+        "extendedMetadata" : {
+          "images" : {
+            "channelSplashWide" : {
+              "width" : 4320,
+              "height" : 1800,
+              "url" : "https://is1-ssl.mzstatic.com/image/thumb/Features122/v4/58/8d/00/588d0004-27ca-2eea-c54f-4198750f9a9c/923c8dcf-773f-4ee0-a5ed-028f98a4a250.png/{w}x{h}sr.{f}",
+              "joeColor" : "b:rgb(100,29,19) p:rgb(252,246,103) s:rgb(245,210,65) t:rgb(219,196,84) q:rgb(214,169,54)"
+            },
+            "posterArt" : {
+              "width" : 3840,
+              "height" : 2160,
+              "url" : "https://is1-ssl.mzstatic.com/image/thumb/kjrFHClZ3Bt-pT0MJnwdFw/{w}x{h}.{f}",
+              "supportsLayeredImage" : true,
+              "joeColor" : "b:rgb(123,42,23) p:rgb(249,226,87) s:rgb(231,197,189) t:rgb(223,189,74) q:rgb(209,166,156)"
+            },
+            "channelSplashTall" : {
+              "width" : 1680,
+              "height" : 3636,
+              "url" : "https://is1-ssl.mzstatic.com/image/thumb/Features122/v4/2d/7d/0b/2d7d0b24-4242-9611-5f98-746323a43edb/b90bed38-0f97-414b-b36a-0c790c326e57.png/{w}x{h}tc.{f}",
+              "joeColor" : "b:rgb(106,32,19) p:rgb(253,248,121) s:rgb(245,217,77) t:rgb(221,198,97) q:rgb(215,174,64)"
+            },
+            "singleColorContentLogo" : {
+              "width" : 4263,
+              "height" : 1314,
+              "url" : "https://is3-ssl.mzstatic.com/image/thumb/CfqbL8vb8oshteso54LnaA/{w}x{h}.{f}",
+              "joeColor" : "b:rgb(255,255,255) p:rgb(12,12,12) s:rgb(25,25,25) t:rgb(61,61,61) q:rgb(71,71,71)"
+            }
+          },
+          "longNote" : "La course à l’espace continue."
+        },
+        "genres" : [ {
+          "id" : "umc.gnr.tv.drama",
+          "name" : "Drame",
+          "type" : "Genre",
+          "url" : "https://tv.apple.com/fr/genre/drame/umc.gnr.tv.drama"
+        } ],
+        "id" : "umc.cmc.6wsi780sz5tdbqcf11k76mkp7",
+        "images" : {
+          "shelfImage" : {
+            "height" : 2160,
+            "isP3" : false,
+            "joeColor" : "b:rgb(123,42,23) p:rgb(249,226,87) s:rgb(231,197,189) t:rgb(223,189,74) q:rgb(209,166,156)",
+            "supportsLayeredImage" : true,
+            "url" : "https://is1-ssl.mzstatic.com/image/thumb/kjrFHClZ3Bt-pT0MJnwdFw/{w}x{h}.{f}",
+            "width" : 3840
+          },
+          "shelfImageBackground" : {
+            "height" : 2160,
+            "isP3" : false,
+            "joeColor" : "b:rgb(123,32,12) p:rgb(253,242,91) s:rgb(252,234,66) t:rgb(227,200,75) q:rgb(226,193,55)",
+            "supportsLayeredImage" : false,
+            "url" : "https://is4-ssl.mzstatic.com/image/thumb/iBJb9kTJOqdcnBhmL8K01g/{w}x{h}.{f}",
+            "width" : 3840
+          },
+          "transitionImage" : {
+            "height" : 3240,
+            "isP3" : false,
+            "joeColor" : "b:rgb(231,191,79) p:rgb(28,7,3) s:rgb(39,11,4) t:rgb(69,43,18) q:rgb(77,47,19)",
+            "supportsLayeredImage" : false,
+            "url" : "https://is1-ssl.mzstatic.com/image/thumb/0QNze4UdarsNMgqK230KnQ/{w}x{h}sr.{f}",
+            "width" : 4320
+          }
+        },
+        "isAppleOriginal" : true,
+        "releaseDate" : 1572566400000,
+        "secondaryActions" : [ "AddToUpNext" ],
+        "title" : "For All Mankind",
+        "type" : "Show",
+        "url" : "https://tv.apple.com/fr/show/for-all-mankind/umc.cmc.6wsi780sz5tdbqcf11k76mkp7"
+      }, {
+        "extendedMetadata" : {
+          "images" : {
+            "channelSplashWide" : {
+              "width" : 4320,
+              "height" : 1800,
+              "url" : "https://is2-ssl.mzstatic.com/image/thumb/Features125/v4/73/ee/a9/73eea97b-86a2-5316-8563-d35bc21c7d81/Q1NXLVRWQS1XV19URUQyX1NlY29uZGFyeV9TdGFkaXVtLnBuZw.png/{w}x{h}sr.{f}",
+              "joeColor" : "b:rgb(6,14,38) p:rgb(140,205,87) s:rgb(91,144,215) t:rgb(108,159,77) q:rgb(71,113,174)"
+            },
+            "posterArt" : {
+              "width" : 3840,
+              "height" : 2160,
+              "url" : "https://is4-ssl.mzstatic.com/image/thumb/Ayre02kzYy-UP8Sefqbmdg/{w}x{h}.{f}",
+              "supportsLayeredImage" : true,
+              "joeColor" : "b:rgb(11,33,85) p:rgb(223,218,213) s:rgb(216,175,145) t:rgb(181,181,188) q:rgb(175,147,133)"
+            },
+            "channelSplashTall" : {
+              "width" : 1680,
+              "height" : 3636,
+              "url" : "https://is3-ssl.mzstatic.com/image/thumb/Features125/v4/78/a3/19/78a31994-195c-7aa9-19ce-4801747ee52e/Q1NULVRWQS1XV19URUQyX1NlY29uZGFyeV9TdGFkaXVtX1NhZmUucG5n.png/{w}x{h}tc.{f}",
+              "joeColor" : "b:rgb(8,16,49) p:rgb(151,211,88) s:rgb(193,182,156) t:rgb(117,165,80) q:rgb(148,143,132)"
+            },
+            "singleColorContentLogo" : {
+              "width" : 5897,
+              "height" : 852,
+              "url" : "https://is5-ssl.mzstatic.com/image/thumb/ZQIpBuSOsaGDlwwEYIO7sQ/{w}x{h}.{f}",
+              "joeColor" : "b:rgb(255,255,255) p:rgb(12,12,12) s:rgb(25,25,25) t:rgb(61,61,61) q:rgb(71,71,71)"
+            }
+          },
+          "longNote" : "Nomination pour 20 Emmy®, dont Meilleure série comique."
+        },
+        "genres" : [ {
+          "id" : "umc.gnr.tv.comedy",
+          "name" : "Comédie",
+          "type" : "Genre",
+          "url" : "https://tv.apple.com/fr/genre/comedie/umc.gnr.tv.comedy"
+        } ],
+        "id" : "umc.cmc.vtoh0mn0xn7t3c643xqonfzy",
+        "images" : {
+          "shelfImage" : {
+            "height" : 2160,
+            "isP3" : false,
+            "joeColor" : "b:rgb(11,33,85) p:rgb(223,218,213) s:rgb(216,175,145) t:rgb(181,181,188) q:rgb(175,147,133)",
+            "supportsLayeredImage" : true,
+            "url" : "https://is4-ssl.mzstatic.com/image/thumb/Ayre02kzYy-UP8Sefqbmdg/{w}x{h}.{f}",
+            "width" : 3840
+          },
+          "shelfImageBackground" : {
+            "height" : 2160,
+            "isP3" : false,
+            "joeColor" : "b:rgb(8,28,78) p:rgb(159,213,106) s:rgb(140,167,226) t:rgb(129,176,100) q:rgb(114,139,196)",
+            "supportsLayeredImage" : false,
+            "url" : "https://is2-ssl.mzstatic.com/image/thumb/p8sRyzU9VpC40vl-3Gsk5A/{w}x{h}.{f}",
+            "width" : 3840
+          },
+          "transitionImage" : {
+            "height" : 3240,
+            "isP3" : false,
+            "joeColor" : "b:rgb(22,22,42) p:rgb(196,218,239) s:rgb(159,189,238) t:rgb(162,179,199) q:rgb(132,155,199)",
+            "supportsLayeredImage" : false,
+            "url" : "https://is5-ssl.mzstatic.com/image/thumb/nc6_OLkCV3TgiHCklTQbMg/{w}x{h}sr.{f}",
+            "width" : 4320
+          }
+        },
+        "isAppleOriginal" : true,
+        "releaseDate" : 1597363200000,
+        "secondaryActions" : [ "AddToUpNext" ],
+        "title" : "Ted Lasso",
+        "type" : "Show",
+        "url" : "https://tv.apple.com/fr/show/ted-lasso/umc.cmc.vtoh0mn0xn7t3c643xqonfzy"
+      }, {
+        "extendedMetadata" : {
+          "images" : {
+            "channelSplashWide" : {
+              "width" : 4320,
+              "height" : 1800,
+              "url" : "https://is2-ssl.mzstatic.com/image/thumb/Features122/v4/db/88/f2/db88f27a-a90e-fa19-2565-2965c3cd7842/d3b6e3ef-0283-4373-a37f-f17cb3e2532e.png/{w}x{h}sr.{f}",
+              "joeColor" : "b:rgb(28,68,92) p:rgb(241,244,246) s:rgb(228,234,237) t:rgb(191,205,212) q:rgb(181,197,205)"
+            },
+            "posterArt" : {
+              "width" : 3840,
+              "height" : 2160,
+              "url" : "https://is4-ssl.mzstatic.com/image/thumb/S4eF69xSeArWZz2DZKaTOQ/{w}x{h}.{f}",
+              "supportsLayeredImage" : true,
+              "joeColor" : "b:rgb(36,89,116) p:rgb(244,246,248) s:rgb(233,238,241) t:rgb(202,215,221) q:rgb(193,208,216)"
+            },
+            "channelSplashTall" : {
+              "width" : 1680,
+              "height" : 3636,
+              "url" : "https://is5-ssl.mzstatic.com/image/thumb/Features122/v4/a7/25/ac/a725ac95-ea4b-2873-afba-9b541ef75cbb/8aecd3a9-8768-4d4f-a80a-224c17e0c739.png/{w}x{h}tc.{f}",
+              "joeColor" : "b:rgb(13,23,31) p:rgb(178,230,240) s:rgb(124,207,242) t:rgb(138,181,191) q:rgb(98,164,192)"
+            },
+            "singleColorContentLogo" : {
+              "width" : 3349,
+              "height" : 314,
+              "url" : "https://is5-ssl.mzstatic.com/image/thumb/vLABZM0msAKhMAQ8qelRkA/{w}x{h}.{f}",
+              "joeColor" : "b:rgb(255,255,255) p:rgb(12,12,12) s:rgb(25,25,25) t:rgb(61,61,61) q:rgb(71,71,71)"
+            }
+          },
+          "longNote" : "Qui croire quand on doute même de soi ?"
+        },
+        "genres" : [ {
+          "id" : "umc.gnr.tv.mystery",
+          "name" : "Suspense",
+          "type" : "Genre",
+          "url" : "https://tv.apple.com/fr/genre/suspense/umc.gnr.tv.mystery"
+        } ],
+        "id" : "umc.cmc.dzqzvmbvizbedk91cvrq5pvw",
+        "images" : {
+          "shelfImage" : {
+            "height" : 2160,
+            "isP3" : false,
+            "joeColor" : "b:rgb(36,89,116) p:rgb(244,246,248) s:rgb(233,238,241) t:rgb(202,215,221) q:rgb(193,208,216)",
+            "supportsLayeredImage" : true,
+            "url" : "https://is4-ssl.mzstatic.com/image/thumb/S4eF69xSeArWZz2DZKaTOQ/{w}x{h}.{f}",
+            "width" : 3840
+          },
+          "shelfImageBackground" : {
+            "height" : 2160,
+            "isP3" : false,
+            "joeColor" : "b:rgb(6,11,16) p:rgb(112,207,243) s:rgb(86,198,244) t:rgb(91,168,197) q:rgb(70,160,198)",
+            "supportsLayeredImage" : false,
+            "url" : "https://is4-ssl.mzstatic.com/image/thumb/zoxkCajDspFxv5VW9AOqPw/{w}x{h}.{f}",
+            "width" : 3840
+          },
+          "transitionImage" : {
+            "height" : 3240,
+            "isP3" : false,
+            "joeColor" : "b:rgb(56,55,55) p:rgb(247,179,175) s:rgb(245,177,179) t:rgb(209,154,151) q:rgb(207,152,154)",
+            "supportsLayeredImage" : false,
+            "url" : "https://is5-ssl.mzstatic.com/image/thumb/C1glojNzsWzF2ANdMk_sOg/{w}x{h}sr.{f}",
+            "width" : 4320
+          }
+        },
+        "isAppleOriginal" : true,
+        "releaseDate" : 1659052800000,
+        "secondaryActions" : [ "AddToUpNext" ],
+        "title" : "Surface",
+        "type" : "Show",
+        "url" : "https://tv.apple.com/fr/show/surface/umc.cmc.dzqzvmbvizbedk91cvrq5pvw"
+      }, {
+        "extendedMetadata" : {
+          "caption" : "NOUVEL ÉPISODE TOUS LES VENDREDIS",
+          "images" : {
+            "channelSplashWide" : {
+              "width" : 4320,
+              "height" : 1800,
+              "url" : "https://is3-ssl.mzstatic.com/image/thumb/Features122/v4/b4/ab/3b/b4ab3b2a-fbb2-58e1-4dbb-b5dfa19401f1/b5d9c39f-7750-4324-b10b-a5aedc9d7334.png/{w}x{h}sr.{f}",
+              "joeColor" : "b:rgb(33,28,19) p:rgb(208,161,125) s:rgb(196,148,125) t:rgb(168,130,101) q:rgb(158,121,100)"
+            },
+            "posterArt" : {
+              "width" : 3840,
+              "height" : 2160,
+              "url" : "https://is1-ssl.mzstatic.com/image/thumb/NuIOgsGJ11I4jRoa7-GbSA/{w}x{h}.{f}",
+              "supportsLayeredImage" : true,
+              "joeColor" : "b:rgb(173,187,191) p:rgb(11,8,8) s:rgb(19,18,15) t:rgb(43,44,44) q:rgb(50,52,50)"
+            },
+            "channelSplashTall" : {
+              "width" : 1680,
+              "height" : 3636,
+              "url" : "https://is1-ssl.mzstatic.com/image/thumb/Features112/v4/b2/2f/0c/b22f0c35-d541-7778-9543-09c4d422be2b/2521626d-90ba-469a-8596-d5fccebd19a4.png/{w}x{h}tc.{f}",
+              "joeColor" : "b:rgb(19,12,8) p:rgb(218,191,137) s:rgb(199,151,112) t:rgb(171,148,106) q:rgb(157,118,87)"
+            },
+            "singleColorContentLogo" : {
+              "width" : 4709,
+              "height" : 440,
+              "url" : "https://is4-ssl.mzstatic.com/image/thumb/bTt4KIKiUBDjUe5SoCdsmw/{w}x{h}.{f}",
+              "joeColor" : "b:rgb(255,255,255) p:rgb(12,12,12) s:rgb(25,25,25) t:rgb(61,61,61) q:rgb(71,71,71)"
+            }
+          },
+          "longNote" : "Le meurtre ? Une affaire de famille."
+        },
+        "genres" : [ {
+          "id" : "umc.gnr.tv.drama",
+          "name" : "Drame",
+          "type" : "Genre",
+          "url" : "https://tv.apple.com/fr/genre/drame/umc.gnr.tv.drama"
+        } ],
+        "id" : "umc.cmc.14kr4vv65unannh7doqgvlh20",
+        "images" : {
+          "shelfImage" : {
+            "height" : 2160,
+            "isP3" : false,
+            "joeColor" : "b:rgb(173,187,191) p:rgb(11,8,8) s:rgb(19,18,15) t:rgb(43,44,44) q:rgb(50,52,50)",
+            "supportsLayeredImage" : true,
+            "url" : "https://is1-ssl.mzstatic.com/image/thumb/NuIOgsGJ11I4jRoa7-GbSA/{w}x{h}.{f}",
+            "width" : 3840
+          },
+          "shelfImageBackground" : {
+            "height" : 2160,
+            "isP3" : false,
+            "joeColor" : "b:rgb(183,194,196) p:rgb(24,24,13) s:rgb(40,31,20) t:rgb(56,58,49) q:rgb(68,63,55)",
+            "supportsLayeredImage" : false,
+            "url" : "https://is1-ssl.mzstatic.com/image/thumb/pgg_EihHZwuTDAow8Qe4cw/{w}x{h}.{f}",
+            "width" : 3840
+          },
+          "transitionImage" : {
+            "height" : 3240,
+            "isP3" : false,
+            "joeColor" : "b:rgb(70,84,75) p:rgb(246,231,200) s:rgb(223,202,157) t:rgb(210,201,175) q:rgb(192,178,141)",
+            "supportsLayeredImage" : false,
+            "url" : "https://is3-ssl.mzstatic.com/image/thumb/eB2u8w1L3ZB3CzQ5zhTubQ/{w}x{h}sr.{f}",
+            "width" : 4320
+          }
+        },
+        "isAppleOriginal" : true,
+        "releaseDate" : 1660867200000,
+        "secondaryActions" : [ "AddToUpNext" ],
+        "title" : "Bad Sisters",
+        "type" : "Show",
+        "url" : "https://tv.apple.com/fr/show/bad-sisters/umc.cmc.14kr4vv65unannh7doqgvlh20"
+      }, {
+        "extendedMetadata" : {
+          "images" : {
+            "channelSplashWide" : {
+              "width" : 4320,
+              "height" : 1800,
+              "url" : "https://is3-ssl.mzstatic.com/image/thumb/Features122/v4/e8/e0/ea/e8e0ea7d-50c8-3086-96c7-9c5cf737c18e/5e5fe14d-64b2-44d4-9ad0-e7e4daa7b7f1.png/{w}x{h}sr.{f}",
+              "joeColor" : "b:rgb(70,130,33) p:rgb(7,9,7) s:rgb(15,21,11) t:rgb(18,27,12) q:rgb(25,39,15)"
+            },
+            "posterArt" : {
+              "width" : 3840,
+              "height" : 2160,
+              "url" : "https://is2-ssl.mzstatic.com/image/thumb/_dJgnWG8W30_qMRZYCEx-Q/{w}x{h}.{f}",
+              "supportsLayeredImage" : true,
+              "joeColor" : "b:rgb(114,170,66) p:rgb(6,11,4) s:rgb(14,22,11) t:rgb(28,43,16) q:rgb(34,51,22)"
+            },
+            "channelSplashTall" : {
+              "width" : 1680,
+              "height" : 3636,
+              "url" : "https://is3-ssl.mzstatic.com/image/thumb/Features112/v4/1f/ee/83/1fee8392-4edf-4bff-703f-dcebecca0971/618c4cdb-f9d3-4f89-9573-18d8da043128.png/{w}x{h}tc.{f}",
+              "joeColor" : "b:rgb(75,134,37) p:rgb(4,5,4) s:rgb(4,6,3) t:rgb(17,25,12) q:rgb(17,26,11)"
+            },
+            "singleColorContentLogo" : {
+              "width" : 6473,
+              "height" : 3429,
+              "url" : "https://is4-ssl.mzstatic.com/image/thumb/yDObpNh-TnM-sfMvTcGHZg/{w}x{h}.{f}",
+              "joeColor" : "b:rgb(255,255,255) p:rgb(12,12,12) s:rgb(25,25,25) t:rgb(61,61,61) q:rgb(71,71,71)"
+            }
+          },
+          "longNote" : "Il suffit parfois d’un peu de malchance."
+        },
+        "genres" : [ {
+          "id" : "umc.gnr.mov.animation",
+          "name" : "Animation",
+          "type" : "Genre",
+          "url" : "https://tv.apple.com/fr/genre/animation/umc.gnr.mov.animation"
+        } ],
+        "id" : "umc.cmc.5w6fq1u39v7ozsdv3jkx0nrfs",
+        "images" : {
+          "shelfImage" : {
+            "height" : 2160,
+            "isP3" : false,
+            "joeColor" : "b:rgb(114,170,66) p:rgb(6,11,4) s:rgb(14,22,11) t:rgb(28,43,16) q:rgb(34,51,22)",
+            "supportsLayeredImage" : true,
+            "url" : "https://is2-ssl.mzstatic.com/image/thumb/_dJgnWG8W30_qMRZYCEx-Q/{w}x{h}.{f}",
+            "width" : 3840
+          },
+          "shelfImageBackground" : {
+            "height" : 2160,
+            "isP3" : false,
+            "joeColor" : "b:rgb(94,150,54) p:rgb(8,15,7) s:rgb(25,23,17) t:rgb(25,42,16) q:rgb(39,48,25)",
+            "supportsLayeredImage" : false,
+            "url" : "https://is4-ssl.mzstatic.com/image/thumb/fiB3eoDrjGfWh6CncoSKzg/{w}x{h}.{f}",
+            "width" : 3840
+          },
+          "transitionImage" : {
+            "height" : 3240,
+            "isP3" : false,
+            "joeColor" : "b:rgb(92,91,42) p:rgb(217,230,236) s:rgb(243,220,197) t:rgb(192,202,197) q:rgb(213,194,166)",
+            "supportsLayeredImage" : false,
+            "url" : "https://is5-ssl.mzstatic.com/image/thumb/-KY47T4V4upXUzkPgeVo9g/{w}x{h}sr.{f}",
+            "width" : 4320
+          }
+        },
+        "isAppleOriginal" : true,
+        "releaseDate" : 1659657600000,
+        "secondaryActions" : [ "AddToUpNext" ],
+        "title" : "Luck",
+        "type" : "Movie",
+        "url" : "https://tv.apple.com/fr/movie/luck/umc.cmc.5w6fq1u39v7ozsdv3jkx0nrfs"
+      }, {
+        "extendedMetadata" : {
+          "images" : {
+            "channelSplashWide" : {
+              "width" : 4320,
+              "height" : 1800,
+              "url" : "https://is1-ssl.mzstatic.com/image/thumb/Features112/v4/9d/c3/a4/9dc3a439-5d6e-f402-786c-6fb2fdbe3480/6240c3ca-7b2e-4712-b3f3-2b0fc4ea8b22.png/{w}x{h}sr.{f}",
+              "joeColor" : "b:rgb(8,8,8) p:rgb(165,197,172) s:rgb(196,138,94) t:rgb(127,151,132) q:rgb(150,107,74)"
+            },
+            "posterArt" : {
+              "width" : 3840,
+              "height" : 2160,
+              "url" : "https://is2-ssl.mzstatic.com/image/thumb/WTDZpzkQlaatpb1X4w9jZg/{w}x{h}.{f}",
+              "supportsLayeredImage" : true,
+              "joeColor" : "b:rgb(23,21,17) p:rgb(244,218,172) s:rgb(211,181,121) t:rgb(200,178,141) q:rgb(174,149,100)"
+            },
+            "channelSplashTall" : {
+              "width" : 1680,
+              "height" : 3636,
+              "url" : "https://is4-ssl.mzstatic.com/image/thumb/Features122/v4/c5/1b/f5/c51bf51e-6a34-1c18-64af-67ca45db3560/550c8e18-a329-4518-8fa7-0a00ded7f629.png/{w}x{h}tc.{f}",
+              "joeColor" : "b:rgb(18,16,13) p:rgb(192,165,131) s:rgb(196,136,91) t:rgb(151,130,103) q:rgb(154,108,72)"
+            },
+            "singleColorContentLogo" : {
+              "width" : 2066,
+              "height" : 752,
+              "url" : "https://is1-ssl.mzstatic.com/image/thumb/HLtk3Wx1CmcQN3Pr8wX-2Q/{w}x{h}.{f}",
+              "joeColor" : "b:rgb(255,255,255) p:rgb(12,12,12) s:rgb(25,25,25) t:rgb(61,61,61) q:rgb(71,71,71)"
+            }
+          },
+          "longNote" : "La liberté de l’un réside dans les secrets de l’autre."
+        },
+        "genres" : [ {
+          "id" : "umc.gnr.tv.drama",
+          "name" : "Drame",
+          "type" : "Genre",
+          "url" : "https://tv.apple.com/fr/genre/drame/umc.gnr.tv.drama"
+        } ],
+        "id" : "umc.cmc.30gx1y8nwthydkrvhqu156p3",
+        "images" : {
+          "shelfImage" : {
+            "height" : 2160,
+            "isP3" : false,
+            "joeColor" : "b:rgb(23,21,17) p:rgb(244,218,172) s:rgb(211,181,121) t:rgb(200,178,141) q:rgb(174,149,100)",
+            "supportsLayeredImage" : true,
+            "url" : "https://is2-ssl.mzstatic.com/image/thumb/WTDZpzkQlaatpb1X4w9jZg/{w}x{h}.{f}",
+            "width" : 3840
+          },
+          "shelfImageBackground" : {
+            "height" : 2160,
+            "isP3" : false,
+            "joeColor" : "b:rgb(9,9,8) p:rgb(178,204,181) s:rgb(206,181,149) t:rgb(144,165,146) q:rgb(167,147,121)",
+            "supportsLayeredImage" : false,
+            "url" : "https://is1-ssl.mzstatic.com/image/thumb/9XrPgd5yyrCqfFxUZow9pA/{w}x{h}.{f}",
+            "width" : 3840
+          },
+          "transitionImage" : {
+            "height" : 3240,
+            "isP3" : false,
+            "joeColor" : "b:rgb(2,2,0) p:rgb(199,193,154) s:rgb(207,164,126) t:rgb(160,155,123) q:rgb(166,131,101)",
+            "supportsLayeredImage" : false,
+            "url" : "https://is4-ssl.mzstatic.com/image/thumb/zW6Os_LfNl34j5RxAbJArA/{w}x{h}sr.{f}",
+            "width" : 4320
+          }
+        },
+        "isAppleOriginal" : true,
+        "releaseDate" : 1657238400000,
+        "secondaryActions" : [ "AddToUpNext" ],
+        "title" : "Black Bird",
+        "type" : "Show",
+        "url" : "https://tv.apple.com/fr/show/black-bird/umc.cmc.30gx1y8nwthydkrvhqu156p3"
+      }, {
+        "extendedMetadata" : {
+          "caption" : "NOUVEL ÉPISODE TOUS LES VENDREDIS",
+          "images" : {
+            "channelSplashWide" : {
+              "width" : 4320,
+              "height" : 1800,
+              "url" : "https://is4-ssl.mzstatic.com/image/thumb/Features122/v4/5a/4a/9b/5a4a9b40-32f4-1e4e-0477-a899a754b9fd/5c9293c9-06e3-4e83-b41d-d1b0ef8b8994.png/{w}x{h}sr.{f}",
+              "joeColor" : "b:rgb(11,14,13) p:rgb(208,215,215) s:rgb(166,185,186) t:rgb(160,167,166) q:rgb(129,144,145)"
+            },
+            "posterArt" : {
+              "width" : 3840,
+              "height" : 2160,
+              "url" : "https://is4-ssl.mzstatic.com/image/thumb/U-llen2n9fyN2aAgouQzEg/{w}x{h}.{f}",
+              "supportsLayeredImage" : true,
+              "joeColor" : "b:rgb(33,42,44) p:rgb(207,216,217) s:rgb(178,194,205) t:rgb(172,181,182) q:rgb(149,163,173)"
+            },
+            "channelSplashTall" : {
+              "width" : 1680,
+              "height" : 3636,
+              "url" : "https://is4-ssl.mzstatic.com/image/thumb/Features112/v4/9b/97/4e/9b974e4a-45b2-37fb-44e3-2de72ae78d5b/c5780c32-3236-478e-8637-66703e166dc4.png/{w}x{h}tc.{f}",
+              "joeColor" : "b:rgb(24,29,30) p:rgb(240,238,241) s:rgb(191,199,199) t:rgb(188,189,191) q:rgb(152,160,160)"
+            },
+            "singleColorContentLogo" : {
+              "width" : 3112,
+              "height" : 696,
+              "url" : "https://is1-ssl.mzstatic.com/image/thumb/whMhCWsDJ2tKA9wkL_AVKw/{w}x{h}.{f}",
+              "joeColor" : "b:rgb(255,255,255) p:rgb(12,12,12) s:rgb(25,25,25) t:rgb(61,61,61) q:rgb(71,71,71)"
+            }
+          },
+          "longNote" : "D’après les évènements survenus lors du passage de l’ouragan Katrina."
+        },
+        "genres" : [ {
+          "id" : "umc.gnr.tv.drama",
+          "name" : "Drame",
+          "type" : "Genre",
+          "url" : "https://tv.apple.com/fr/genre/drame/umc.gnr.tv.drama"
+        } ],
+        "id" : "umc.cmc.50agn5zbvuj7z70teq1p0pixn",
+        "images" : {
+          "shelfImage" : {
+            "height" : 2160,
+            "isP3" : false,
+            "joeColor" : "b:rgb(33,42,44) p:rgb(207,216,217) s:rgb(178,194,205) t:rgb(172,181,182) q:rgb(149,163,173)",
+            "supportsLayeredImage" : true,
+            "url" : "https://is4-ssl.mzstatic.com/image/thumb/U-llen2n9fyN2aAgouQzEg/{w}x{h}.{f}",
+            "width" : 3840
+          },
+          "shelfImageBackground" : {
+            "height" : 2160,
+            "isP3" : false,
+            "joeColor" : "b:rgb(20,27,27) p:rgb(212,220,220) s:rgb(198,210,209) t:rgb(174,181,181) q:rgb(163,174,173)",
+            "supportsLayeredImage" : false,
+            "url" : "https://is4-ssl.mzstatic.com/image/thumb/18FyNw3bjOT4id55W4O5_w/{w}x{h}.{f}",
+            "width" : 3840
+          },
+          "transitionImage" : {
+            "height" : 3240,
+            "isP3" : false,
+            "joeColor" : "b:rgb(28,40,44) p:rgb(195,206,206) s:rgb(164,185,202) t:rgb(162,173,174) q:rgb(137,156,171)",
+            "supportsLayeredImage" : false,
+            "url" : "https://is2-ssl.mzstatic.com/image/thumb/pex2Q5bEynV7iQYl7rw_Hg/{w}x{h}sr.{f}",
+            "width" : 4320
+          }
+        },
+        "isAppleOriginal" : true,
+        "releaseDate" : 1660262400000,
+        "secondaryActions" : [ "AddToUpNext" ],
+        "title" : "Five Days at Memorial",
+        "type" : "Show",
+        "url" : "https://tv.apple.com/fr/show/five-days-at-memorial/umc.cmc.50agn5zbvuj7z70teq1p0pixn"
+      }, {
+        "extendedMetadata" : {
+          "images" : {
+            "channelSplashWide" : {
+              "width" : 4320,
+              "height" : 1800,
+              "url" : "https://is3-ssl.mzstatic.com/image/thumb/Features115/v4/92/82/7c/92827c9a-ab5e-8746-11ab-017d8bea4949/Rk5EMV9TZWNvbmRhcnlfUmFkaWFudF9DU1ctVFZBLVdXLnBuZw.png/{w}x{h}sr.{f}",
+              "joeColor" : "b:rgb(13,15,23) p:rgb(243,254,255) s:rgb(187,221,240) t:rgb(187,196,200) q:rgb(145,171,189)"
+            },
+            "posterArt" : {
+              "width" : 3840,
+              "height" : 2160,
+              "url" : "https://is2-ssl.mzstatic.com/image/thumb/qYEYYvFXN2O4zEuCcBSbjw/{w}x{h}.{f}",
+              "supportsLayeredImage" : true,
+              "joeColor" : "b:rgb(13,23,37) p:rgb(253,255,255) s:rgb(225,245,251) t:rgb(204,208,211) q:rgb(183,200,208)"
+            },
+            "channelSplashTall" : {
+              "width" : 1680,
+              "height" : 3636,
+              "url" : "https://is2-ssl.mzstatic.com/image/thumb/Features115/v4/98/ac/45/98ac451f-349b-8038-e767-3ac40218eeeb/Rk5EMV9TZWNvbmRhcnlfUmFkaWFudF9DU1QtVFZBLVdXLnBuZw.png/{w}x{h}tc.{f}",
+              "joeColor" : "b:rgb(19,16,34) p:rgb(255,255,255) s:rgb(219,237,254) t:rgb(199,197,203) q:rgb(172,184,202)"
+            },
+            "singleColorContentLogo" : {
+              "width" : 7912,
+              "height" : 742,
+              "url" : "https://is2-ssl.mzstatic.com/image/thumb/wn-diNoQPSUlHDnJsx7YLg/{w}x{h}.{f}",
+              "joeColor" : "b:rgb(255,255,255) p:rgb(12,12,12) s:rgb(25,25,25) t:rgb(61,61,61) q:rgb(71,71,71)"
+            }
+          },
+          "longNote" : "Changez votre destinée."
+        },
+        "genres" : [ {
+          "id" : "umc.gnr.tv.scifi",
+          "name" : "Science-fiction",
+          "type" : "Genre",
+          "url" : "https://tv.apple.com/fr/genre/science-fiction/umc.gnr.tv.scifi"
+        } ],
+        "id" : "umc.cmc.5983fipzqbicvrve6jdfep4x3",
+        "images" : {
+          "shelfImage" : {
+            "height" : 2160,
+            "isP3" : false,
+            "joeColor" : "b:rgb(13,23,37) p:rgb(253,255,255) s:rgb(225,245,251) t:rgb(204,208,211) q:rgb(183,200,208)",
+            "supportsLayeredImage" : true,
+            "url" : "https://is2-ssl.mzstatic.com/image/thumb/qYEYYvFXN2O4zEuCcBSbjw/{w}x{h}.{f}",
+            "width" : 3840
+          },
+          "shelfImageBackground" : {
+            "height" : 2160,
+            "isP3" : false,
+            "joeColor" : "b:rgb(16,13,45) p:rgb(245,254,255) s:rgb(204,233,247) t:rgb(199,205,212) q:rgb(166,189,206)",
+            "supportsLayeredImage" : false,
+            "url" : "https://is3-ssl.mzstatic.com/image/thumb/aVFuOWYbBs-tlfHU4PHj0w/{w}x{h}.{f}",
+            "width" : 3840
+          },
+          "transitionImage" : {
+            "height" : 3240,
+            "isP3" : false,
+            "joeColor" : "b:rgb(19,29,48) p:rgb(159,160,228) s:rgb(150,134,221) t:rgb(131,134,192) q:rgb(124,113,186)",
+            "supportsLayeredImage" : false,
+            "url" : "https://is4-ssl.mzstatic.com/image/thumb/y-uJa9M08K9Qgi-Tf0E1NA/{w}x{h}sr.{f}",
+            "width" : 4320
+          }
+        },
+        "isAppleOriginal" : true,
+        "releaseDate" : 1632441600000,
+        "secondaryActions" : [ "AddToUpNext" ],
+        "title" : "Foundation",
+        "type" : "Show",
+        "url" : "https://tv.apple.com/fr/show/foundation/umc.cmc.5983fipzqbicvrve6jdfep4x3"
+      } ],
+      "metrics" : {
+        "data.uts.shelfCategoryId" : "edt.cat.unknown.edt.col.62e955e1-dfde-42be-917d-896765bc168d",
+        "data.uts.shelfCategoryName" : "uts.category.unknown.edt.col.62e955e1-dfde-42be-917d-896765bc168d",
+        "data.uts.baselineTestEligible" : "false",
+        "data.uts.displayType" : "River"
+      },
+      "url" : "https://tv.apple.com/fr/collection/edt.col.62e955e1-dfde-42be-917d-896765bc168d?ctx_dt=river"
+    }
+  },
+  "utsk" : "6e3013c6d6fae3c2::::::235656c069bb0efb"
+}

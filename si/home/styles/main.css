@@ -1,0 +1,163 @@
+/*------------------------------------*\
+   HERO CSS
+\*------------------------------------*/
+
+
+.main [data-module-template="heroes"] [data-unit-id] .unit-copy-wrapper { padding-left: 15px; padding-right: 15px; }
+
+
+
+/* HERO 1 MACBOOK-AIR */
+
+/* SCREENS */
+
+/* LOCAL FIXES */
+
+/* END HERO 1 MACBOOK-AIR */
+
+
+
+/* HERO 2 MACBOOK-PRO-13 */
+
+/* SCREENS */
+
+/* LOCAL FIXES */
+
+/* END HERO 2 MACBOOK-PRO-13 */
+
+
+
+
+/* HERO 3 IPHONE-13 */
+
+/* SCREENS */
+
+/* LOCAL FIXES */
+
+/* END HERO 3 IPHONE-13 */
+
+
+
+/*------------------------------------*\
+  END HERO CSS
+\*------------------------------------*/
+
+
+
+
+/*------------------------------------*\
+   PROMO CSS
+\*------------------------------------*/
+
+
+/* PROMO 1 IPAD-AIR */
+
+/* SCREENS */
+
+/* LOCAL FIXES */
+
+/* END PROMO 1 IPAD-AIR */
+
+
+
+
+
+
+
+
+
+/* PROMO 2 IPHONE-13-PRO */
+
+/* SCREENS */
+
+/* LOCAL FIXES */
+
+/* END PROMO 2 IPHONE-13-PRO */
+
+
+
+
+
+
+
+
+
+/* PROMO 3 WATCH-SERIES-7 */
+
+/* SCREENS */
+
+/* LOCAL FIXES */
+
+/* END PROMO 3 WATCH-SERIES-7 */
+
+
+
+
+
+
+
+
+
+
+/* PROMO 4 IPHONE-SE */
+
+/* SCREENS */
+
+/* LOCAL FIXES */
+
+/* END PROMO 4 IPHONE-SE */
+
+
+
+
+
+
+
+
+
+/* PROMO 5 AIRPODS */
+
+/* SCREENS */
+
+/* LOCAL FIXES */
+
+
+/* END PROMO 5 AIRPODS */
+
+
+
+
+
+
+
+
+
+
+/* PROMO 6 APPLE-TV-4K  */
+
+/* SCREENS */
+
+/* LOCAL FIXES */
+
+.main [data-module-template="promos"] [data-unit-id="apple-tv-4k"] .unit-copy-wrapper .headline.logo-image {
+	margin-top: 56px;
+}
+
+@media only screen and (max-width: 1068px) {
+	.main [data-module-template="promos"] [data-unit-id="apple-tv-4k"] .unit-copy-wrapper .headline.logo-image {
+	margin-top: 41px;
+	}
+}
+
+@media only screen and (max-width: 734px) {
+	.main [data-module-template="promos"] [data-unit-id="apple-tv-4k"] .unit-copy-wrapper .headline.logo-image {
+	margin-top: 39px;
+	}
+}
+
+/* END PROMO 6 APPLE-TV-4K */
+
+
+/*------------------------------------*\
+  END PROMO CSS
+\*------------------------------------*/

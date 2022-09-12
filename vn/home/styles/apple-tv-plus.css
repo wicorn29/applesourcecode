@@ -1,0 +1,38 @@
+/* start heroes/watch-series-7 */
+.main [data-module-template="heroes"] [data-unit-id="watch-series-7"] .unit-copy-wrapper {
+	padding-top: 34px;
+}
+
+@media only screen and (max-width: 1068px) {
+	.main [data-module-template="heroes"] [data-unit-id="watch-series-7"] .unit-copy-wrapper {
+		padding-top: 41px;
+	}
+}
+
+@media only screen and (max-width: 734px) {
+	.main [data-module-template="heroes"] [data-unit-id="watch-series-7"] .unit-copy-wrapper {
+		padding-top: 32px;
+	}
+}
+
+@media only screen and (min-width: 1069px) and (min-height: 776px) {
+	.main [data-module-template="heroes"] [data-unit-id="watch-series-7"] .unit-copy-wrapper {
+		padding-top: 32px;
+	}
+}
+
+@media only screen and (max-width: 1068px) and (min-width: 735px) and (min-height: 734px) {
+	.main [data-module-template="heroes"] [data-unit-id="watch-series-7"] .unit-copy-wrapper {
+		padding-top: 49px;
+	}
+}
+/* end heroes/watch-series-7 */
+
+/* start promos/arcade-jetpack-joyride */
+.main [data-module-template="promos"] [data-unit-id="arcade-jetpack-joyride"] .unit-copy-wrapper .cta-links a.footnote:not(:only-child):not(:first-child) {
+	position: relative;
+	vertical-align: baseline;
+	margin-left: 0;
+}
+/* end promos/arcade-jetpack-joyride */
+
