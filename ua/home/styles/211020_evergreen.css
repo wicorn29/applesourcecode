@@ -1,0 +1,1540 @@
+/* start heroes/macbook-air */
+.logo-image-macbook-air-logo-hero-macbookair {
+	width: 252px;
+	height: 41px;
+	background-size: 252px 41px;
+	background-repeat: no-repeat;
+	background-image: url("../images/logos/macbook-air/logo_hero_macbookair__edl9uovq56wm_large.png");
+	background-position: center;
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+	.logo-image-macbook-air-logo-hero-macbookair {
+		background-image: url("../images/logos/macbook-air/logo_hero_macbookair__edl9uovq56wm_large_2x.png");
+	}
+}
+
+@media only screen and (max-width: 1068px) {
+	.logo-image-macbook-air-logo-hero-macbookair {
+		width: 219px;
+		height: 36px;
+		background-size: 219px 36px;
+		background-repeat: no-repeat;
+		background-image: url("../images/logos/macbook-air/logo_hero_macbookair__edl9uovq56wm_medium.png");
+	}
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+	.logo-image-macbook-air-logo-hero-macbookair {
+		background-image: url("../images/logos/macbook-air/logo_hero_macbookair__edl9uovq56wm_medium_2x.png");
+	}
+}
+
+@media only screen and (max-width: 734px) {
+	.logo-image-macbook-air-logo-hero-macbookair {
+		width: 178px;
+		height: 29px;
+		background-size: 178px 29px;
+		background-repeat: no-repeat;
+		background-image: url("../images/logos/macbook-air/logo_hero_macbookair__edl9uovq56wm_small.png");
+	}
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 734px) and (min-resolution: 1.5dppx), only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+	.logo-image-macbook-air-logo-hero-macbookair {
+		background-image: url("../images/logos/macbook-air/logo_hero_macbookair__edl9uovq56wm_small_2x.png");
+	}
+}
+
+@media only screen and (min-width: 1069px) and (min-height: 776px) {
+	.logo-image-macbook-air-logo-hero-macbookair {
+		width: 252px;
+		height: 41px;
+		background-size: 252px 41px;
+		background-repeat: no-repeat;
+		background-image: url("../images/logos/macbook-air/logo_hero_macbookair__edl9uovq56wm_largetall.png");
+	}
+}
+
+@media only screen and (min-width: 1069px) and (min-height: 776px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-width: 1069px) and (min-height: 776px) and (min-resolution: 1.5dppx), only screen and (min-width: 1069px) and (min-height: 776px) and (min-resolution: 144dpi) {
+	.logo-image-macbook-air-logo-hero-macbookair {
+		background-image: url("../images/logos/macbook-air/logo_hero_macbookair__edl9uovq56wm_largetall_2x.png");
+	}
+}
+
+@media only screen and (max-width: 1068px) and (min-width: 735px) and (min-height: 734px) {
+	.logo-image-macbook-air-logo-hero-macbookair {
+		width: 219px;
+		height: 36px;
+		background-size: 219px 36px;
+		background-repeat: no-repeat;
+		background-image: url("../images/logos/macbook-air/logo_hero_macbookair__edl9uovq56wm_mediumtall.png");
+	}
+}
+
+@media only screen and (max-width: 1068px) and (min-width: 735px) and (min-height: 734px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-width: 735px) and (min-height: 734px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-width: 735px) and (min-height: 734px) and (min-resolution: 144dpi) {
+	.logo-image-macbook-air-logo-hero-macbookair {
+		background-image: url("../images/logos/macbook-air/logo_hero_macbookair__edl9uovq56wm_mediumtall_2x.png");
+	}
+}
+/* end heroes/macbook-air */
+
+/* start heroes/iphone-13-pro */
+.main [data-module-template="heroes"] [data-unit-id="iphone-13-pro"] .unit-copy-wrapper .avail-wrapper .avail-msg {
+	color: #86868b;
+}
+
+.main [data-module-template="heroes"] [data-unit-id="iphone-13-pro"] .unit-copy-wrapper .avail-wrapper {
+	margin-top: 7px;
+}
+
+@media only screen and (max-width: 1068px) {
+	.main [data-module-template="heroes"] [data-unit-id="iphone-13-pro"] .unit-copy-wrapper .avail-wrapper {
+		margin-top: 6px;
+	}
+}
+
+.main [data-module-template="heroes"] [data-unit-id="iphone-13-pro"] .unit-copy-wrapper .cta-links {
+	margin-top: 10px;
+}
+
+@media only screen and (max-width: 1068px) {
+	.main [data-module-template="heroes"] [data-unit-id="iphone-13-pro"] .unit-copy-wrapper .cta-links {
+		margin-top: 11px;
+	}
+}
+
+@media only screen and (max-width: 734px) {
+	.main [data-module-template="heroes"] [data-unit-id="iphone-13-pro"] .unit-copy-wrapper .cta-links {
+		margin-top: 12px;
+	}
+}
+
+.main [data-module-template="heroes"] .unit-image-wrapper .unit-image.unit-image-iphone-13-pro-hero-iphone-13pro {
+	width: 3010px;
+	height: 624px;
+	background-size: 3010px 624px;
+	background-repeat: no-repeat;
+	background-image: url("../images/heroes/iphone-13-pro/hero_iphone_13pro__dhnsegysa42u_large.jpg");
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+	.main [data-module-template="heroes"] .unit-image-wrapper .unit-image.unit-image-iphone-13-pro-hero-iphone-13pro {
+		background-image: url("../images/heroes/iphone-13-pro/hero_iphone_13pro__dhnsegysa42u_large_2x.jpg");
+	}
+}
+
+@media only screen and (max-width: 1068px) {
+	.main [data-module-template="heroes"] .unit-image-wrapper .unit-image.unit-image-iphone-13-pro-hero-iphone-13pro {
+		width: 1068px;
+		height: 617px;
+		background-size: 1068px 617px;
+		background-repeat: no-repeat;
+		background-image: url("../images/heroes/iphone-13-pro/hero_iphone_13pro__dhnsegysa42u_medium.jpg");
+	}
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+	.main [data-module-template="heroes"] .unit-image-wrapper .unit-image.unit-image-iphone-13-pro-hero-iphone-13pro {
+		background-image: url("../images/heroes/iphone-13-pro/hero_iphone_13pro__dhnsegysa42u_medium_2x.jpg");
+	}
+}
+
+@media only screen and (max-width: 734px) {
+	.main [data-module-template="heroes"] .unit-image-wrapper .unit-image.unit-image-iphone-13-pro-hero-iphone-13pro {
+		width: 734px;
+		height: 548px;
+		background-size: 734px 548px;
+		background-repeat: no-repeat;
+		background-image: url("../images/heroes/iphone-13-pro/hero_iphone_13pro__dhnsegysa42u_small.jpg");
+	}
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 734px) and (min-resolution: 1.5dppx), only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+	.main [data-module-template="heroes"] .unit-image-wrapper .unit-image.unit-image-iphone-13-pro-hero-iphone-13pro {
+		background-image: url("../images/heroes/iphone-13-pro/hero_iphone_13pro__dhnsegysa42u_small_2x.jpg");
+	}
+}
+
+@media only screen and (min-width: 1069px) and (min-height: 776px) {
+	.main [data-module-template="heroes"] .unit-image-wrapper .unit-image.unit-image-iphone-13-pro-hero-iphone-13pro {
+		width: 3010px;
+		height: 736px;
+		background-size: 3010px 736px;
+		background-repeat: no-repeat;
+		background-image: url("../images/heroes/iphone-13-pro/hero_iphone_13pro__dhnsegysa42u_largetall.jpg");
+	}
+}
+
+@media only screen and (min-width: 1069px) and (min-height: 776px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-width: 1069px) and (min-height: 776px) and (min-resolution: 1.5dppx), only screen and (min-width: 1069px) and (min-height: 776px) and (min-resolution: 144dpi) {
+	.main [data-module-template="heroes"] .unit-image-wrapper .unit-image.unit-image-iphone-13-pro-hero-iphone-13pro {
+		background-image: url("../images/heroes/iphone-13-pro/hero_iphone_13pro__dhnsegysa42u_largetall_2x.jpg");
+	}
+}
+
+@media only screen and (max-width: 1068px) and (min-width: 735px) and (min-height: 734px) {
+	.main [data-module-template="heroes"] .unit-image-wrapper .unit-image.unit-image-iphone-13-pro-hero-iphone-13pro {
+		width: 1068px;
+		height: 698px;
+		background-size: 1068px 698px;
+		background-repeat: no-repeat;
+		background-image: url("../images/heroes/iphone-13-pro/hero_iphone_13pro__dhnsegysa42u_mediumtall.jpg");
+	}
+}
+
+@media only screen and (max-width: 1068px) and (min-width: 735px) and (min-height: 734px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-width: 735px) and (min-height: 734px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-width: 735px) and (min-height: 734px) and (min-resolution: 144dpi) {
+	.main [data-module-template="heroes"] .unit-image-wrapper .unit-image.unit-image-iphone-13-pro-hero-iphone-13pro {
+		background-image: url("../images/heroes/iphone-13-pro/hero_iphone_13pro__dhnsegysa42u_mediumtall_2x.jpg");
+	}
+}
+/* end heroes/iphone-13-pro */
+
+/* start heroes/macbook-pro-13 */
+.logo-image-macbook-pro-13-logo-hero-mbp13 {
+	width: 293px;
+	height: 68px;
+	background-size: 293px 68px;
+	background-repeat: no-repeat;
+	background-image: url("../images/logos/macbook-pro-13/logo_hero_mbp13__gdqp6kikbxe2_large.png");
+	background-position: center;
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+	.logo-image-macbook-pro-13-logo-hero-mbp13 {
+		background-image: url("../images/logos/macbook-pro-13/logo_hero_mbp13__gdqp6kikbxe2_large_2x.png");
+	}
+}
+
+@media only screen and (max-width: 1068px) {
+	.logo-image-macbook-pro-13-logo-hero-mbp13 {
+		width: 253px;
+		height: 59px;
+		background-size: 253px 59px;
+		background-repeat: no-repeat;
+		background-image: url("../images/logos/macbook-pro-13/logo_hero_mbp13__gdqp6kikbxe2_medium.png");
+	}
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+	.logo-image-macbook-pro-13-logo-hero-mbp13 {
+		background-image: url("../images/logos/macbook-pro-13/logo_hero_mbp13__gdqp6kikbxe2_medium_2x.png");
+	}
+}
+
+@media only screen and (max-width: 734px) {
+	.logo-image-macbook-pro-13-logo-hero-mbp13 {
+		width: 207px;
+		height: 48px;
+		background-size: 207px 48px;
+		background-repeat: no-repeat;
+		background-image: url("../images/logos/macbook-pro-13/logo_hero_mbp13__gdqp6kikbxe2_small.png");
+	}
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 734px) and (min-resolution: 1.5dppx), only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+	.logo-image-macbook-pro-13-logo-hero-mbp13 {
+		background-image: url("../images/logos/macbook-pro-13/logo_hero_mbp13__gdqp6kikbxe2_small_2x.png");
+	}
+}
+
+@media only screen and (min-width: 1069px) and (min-height: 776px) {
+	.logo-image-macbook-pro-13-logo-hero-mbp13 {
+		width: 293px;
+		height: 68px;
+		background-size: 293px 68px;
+		background-repeat: no-repeat;
+		background-image: url("../images/logos/macbook-pro-13/logo_hero_mbp13__gdqp6kikbxe2_largetall.png");
+	}
+}
+
+@media only screen and (min-width: 1069px) and (min-height: 776px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-width: 1069px) and (min-height: 776px) and (min-resolution: 1.5dppx), only screen and (min-width: 1069px) and (min-height: 776px) and (min-resolution: 144dpi) {
+	.logo-image-macbook-pro-13-logo-hero-mbp13 {
+		background-image: url("../images/logos/macbook-pro-13/logo_hero_mbp13__gdqp6kikbxe2_largetall_2x.png");
+	}
+}
+
+@media only screen and (max-width: 1068px) and (min-width: 735px) and (min-height: 734px) {
+	.logo-image-macbook-pro-13-logo-hero-mbp13 {
+		width: 253px;
+		height: 59px;
+		background-size: 253px 59px;
+		background-repeat: no-repeat;
+		background-image: url("../images/logos/macbook-pro-13/logo_hero_mbp13__gdqp6kikbxe2_mediumtall.png");
+	}
+}
+
+@media only screen and (max-width: 1068px) and (min-width: 735px) and (min-height: 734px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-width: 735px) and (min-height: 734px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-width: 735px) and (min-height: 734px) and (min-resolution: 144dpi) {
+	.logo-image-macbook-pro-13-logo-hero-mbp13 {
+		background-image: url("../images/logos/macbook-pro-13/logo_hero_mbp13__gdqp6kikbxe2_mediumtall_2x.png");
+	}
+}
+/* end heroes/macbook-pro-13 */
+
+/* start promos/iphone-13 */
+.main [data-module-template="promos"] .unit-image-wrapper .unit-image.unit-image-iphone-13-tile-iphone-13 {
+	width: 1262px;
+	height: 580px;
+	background-size: 1262px 580px;
+	background-repeat: no-repeat;
+	background-image: url("../../../v/home/ae/images/promos/iphone-13/tile_iphone_13__d9w82q7fwceq_large.jpg");
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+	.main [data-module-template="promos"] .unit-image-wrapper .unit-image.unit-image-iphone-13-tile-iphone-13 {
+		background-image: url("../../../v/home/ae/images/promos/iphone-13/tile_iphone_13__d9w82q7fwceq_large_2x.jpg");
+	}
+}
+
+@media only screen and (max-width: 1068px) {
+	.main [data-module-template="promos"] .unit-image-wrapper .unit-image.unit-image-iphone-13-tile-iphone-13 {
+		width: 516px;
+		height: 490px;
+		background-size: 516px 490px;
+		background-repeat: no-repeat;
+		background-image: url("../../../v/home/ae/images/promos/iphone-13/tile_iphone_13__d9w82q7fwceq_medium.jpg");
+	}
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+	.main [data-module-template="promos"] .unit-image-wrapper .unit-image.unit-image-iphone-13-tile-iphone-13 {
+		background-image: url("../../../v/home/ae/images/promos/iphone-13/tile_iphone_13__d9w82q7fwceq_medium_2x.jpg");
+	}
+}
+
+@media only screen and (max-width: 734px) {
+	.main [data-module-template="promos"] .unit-image-wrapper .unit-image.unit-image-iphone-13-tile-iphone-13 {
+		width: 734px;
+		height: 548px;
+		background-size: 734px 548px;
+		background-repeat: no-repeat;
+		background-image: url("../../../v/home/ae/images/promos/iphone-13/tile_iphone_13__d9w82q7fwceq_small.jpg");
+	}
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 734px) and (min-resolution: 1.5dppx), only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+	.main [data-module-template="promos"] .unit-image-wrapper .unit-image.unit-image-iphone-13-tile-iphone-13 {
+		background-image: url("../../../v/home/ae/images/promos/iphone-13/tile_iphone_13__d9w82q7fwceq_small_2x.jpg");
+	}
+}
+/* end promos/iphone-13 */
+
+/* start promos/watch-series-7 */
+.logo-image-watch-series-7-tile-watch-logo-lte {
+	width: 146px;
+	height: 56px;
+	background-size: 146px 56px;
+	background-repeat: no-repeat;
+	background-image: url("../../../v/home/ag/images/logos/watch-series-7/tile_watch_logo_lte__h7snssb7mqq2_large.png");
+	background-position: center;
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+	.logo-image-watch-series-7-tile-watch-logo-lte {
+		background-image: url("../../../v/home/ag/images/logos/watch-series-7/tile_watch_logo_lte__h7snssb7mqq2_large_2x.png");
+	}
+}
+
+@media only screen and (max-width: 1068px) {
+	.logo-image-watch-series-7-tile-watch-logo-lte {
+		width: 118px;
+		height: 45px;
+		background-size: 118px 45px;
+		background-repeat: no-repeat;
+		background-image: url("../../../v/home/ag/images/logos/watch-series-7/tile_watch_logo_lte__h7snssb7mqq2_medium.png");
+	}
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+	.logo-image-watch-series-7-tile-watch-logo-lte {
+		background-image: url("../../../v/home/ag/images/logos/watch-series-7/tile_watch_logo_lte__h7snssb7mqq2_medium_2x.png");
+	}
+}
+
+@media only screen and (max-width: 734px) {
+	.logo-image-watch-series-7-tile-watch-logo-lte {
+		width: 122px;
+		height: 47px;
+		background-size: 122px 47px;
+		background-repeat: no-repeat;
+		background-image: url("../../../v/home/ag/images/logos/watch-series-7/tile_watch_logo_lte__h7snssb7mqq2_small.png");
+	}
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 734px) and (min-resolution: 1.5dppx), only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+	.logo-image-watch-series-7-tile-watch-logo-lte {
+		background-image: url("../../../v/home/ag/images/logos/watch-series-7/tile_watch_logo_lte__h7snssb7mqq2_small_2x.png");
+	}
+}
+
+.main [data-module-template="promos"] .unit-image-wrapper .unit-image.unit-image-watch-series-7-tile-watch {
+	width: 1262px;
+	height: 580px;
+	background-size: 1262px 580px;
+	background-repeat: no-repeat;
+	background-image: url("../../../v/home/ag/images/promos/watch-series-7/tile_watch__e9n11b6m6yq2_large.jpg");
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+	.main [data-module-template="promos"] .unit-image-wrapper .unit-image.unit-image-watch-series-7-tile-watch {
+		background-image: url("../../../v/home/ag/images/promos/watch-series-7/tile_watch__e9n11b6m6yq2_large_2x.jpg");
+	}
+}
+
+@media only screen and (max-width: 1068px) {
+	.main [data-module-template="promos"] .unit-image-wrapper .unit-image.unit-image-watch-series-7-tile-watch {
+		width: 516px;
+		height: 490px;
+		background-size: 516px 490px;
+		background-repeat: no-repeat;
+		background-image: url("../../../v/home/ag/images/promos/watch-series-7/tile_watch__e9n11b6m6yq2_medium.jpg");
+	}
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+	.main [data-module-template="promos"] .unit-image-wrapper .unit-image.unit-image-watch-series-7-tile-watch {
+		background-image: url("../../../v/home/ag/images/promos/watch-series-7/tile_watch__e9n11b6m6yq2_medium_2x.jpg");
+	}
+}
+
+@media only screen and (max-width: 734px) {
+	.main [data-module-template="promos"] .unit-image-wrapper .unit-image.unit-image-watch-series-7-tile-watch {
+		width: 734px;
+		height: 548px;
+		background-size: 734px 548px;
+		background-repeat: no-repeat;
+		background-image: url("../../../v/home/ag/images/promos/watch-series-7/tile_watch__e9n11b6m6yq2_small.jpg");
+	}
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 734px) and (min-resolution: 1.5dppx), only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+	.main [data-module-template="promos"] .unit-image-wrapper .unit-image.unit-image-watch-series-7-tile-watch {
+		background-image: url("../../../v/home/ag/images/promos/watch-series-7/tile_watch__e9n11b6m6yq2_small_2x.jpg");
+	}
+}
+
+.main [data-module-template="heroes"] [data-unit-id="watch-series-7"] .violator {
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+	white-space: nowrap;
+	display: inline-block;
+	border: 1px solid;
+	background: rgba(0, 0, 0, 0);
+	border-color: #bf4800;
+	color: #bf4800;
+	font-size: 17px;
+	line-height: 1.17648;
+	font-weight: 400;
+	letter-spacing: -0.022em;
+	font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", "Helvetica",
+		"Arial", sans-serif;
+	border-radius: 18px;
+	padding-left: 18px;
+	padding-right: 18px;
+	padding-top: 7px;
+	padding-bottom: 7px;
+}
+
+.main [data-module-template="heroes"] [data-unit-id="watch-series-7"] .violator:lang(ar) {
+	letter-spacing: 0em;
+	font-family: "SF Pro AR", "SF Pro Gulf", "SF Pro Text", "SF Pro Icons",
+		"Helvetica Neue", "Helvetica", "Arial", sans-serif;
+}
+
+.main [data-module-template="heroes"] [data-unit-id="watch-series-7"] .violator:lang(ja) {
+	letter-spacing: 0em;
+	font-family: "SF Pro JP", "SF Pro Text", "SF Pro Icons",
+		"Hiragino Kaku Gothic Pro", "ヒラギノ角ゴ Pro W3", "メイリオ", "Meiryo",
+		"ＭＳ Ｐゴシック", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+}
+
+.main [data-module-template="heroes"] [data-unit-id="watch-series-7"] .violator:lang(ko) {
+	letter-spacing: 0em;
+	font-family: "SF Pro KR", "SF Pro Text", "SF Pro Icons", "Apple Gothic",
+		"HY Gulim", "MalgunGothic", "HY Dotum", "Lexi Gulim", "Helvetica Neue",
+		"Helvetica", "Arial", sans-serif;
+}
+
+.main [data-module-template="heroes"] [data-unit-id="watch-series-7"] .violator:lang(zh) {
+	letter-spacing: 0em;
+}
+
+.main [data-module-template="heroes"] [data-unit-id="watch-series-7"] .violator:lang(th) {
+	font-family: "SF Pro TH", "SF Pro Text", "SF Pro Icons", "Helvetica Neue",
+		"Helvetica", "Arial", sans-serif;
+}
+
+.main [data-module-template="heroes"] [data-unit-id="watch-series-7"] .violator:lang(zh-CN) {
+	font-family: "SF Pro SC", "SF Pro Text", "SF Pro Icons", "PingFang SC",
+		"Helvetica Neue", "Helvetica", "Arial", sans-serif;
+}
+
+.main [data-module-template="heroes"] [data-unit-id="watch-series-7"] .violator:lang(zh-HK) {
+	font-family: "SF Pro HK", "SF Pro Text", "SF Pro Icons", "PingFang HK",
+		"Helvetica Neue", "Helvetica", "Arial", sans-serif;
+}
+
+.main [data-module-template="heroes"] [data-unit-id="watch-series-7"] .violator:lang(zh-MO) {
+	font-family: "SF Pro HK", "SF Pro TC", "SF Pro Text", "SF Pro Icons",
+		"PingFang HK", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+}
+
+.main [data-module-template="heroes"] [data-unit-id="watch-series-7"] .violator:lang(zh-TW) {
+	font-family: "SF Pro TC", "SF Pro Text", "SF Pro Icons", "PingFang TC",
+		"Helvetica Neue", "Helvetica", "Arial", sans-serif;
+}
+
+.main [data-module-template="heroes"] [data-unit-id="watch-series-7"] .violator-inline {
+	margin-left: 10px;
+	display: inline-block;
+}
+
+.main [data-module-template="heroes"] [data-unit-id="watch-series-7"] .violator-secondary {
+	background: rgba(0, 0, 0, 0);
+	border-color: #6e6e73;
+	color: #6e6e73;
+}
+
+.main [data-module-template="heroes"] [data-unit-id="watch-series-7"] .violator-reduced {
+	font-size: 12px;
+	line-height: 1.33337;
+	font-weight: 400;
+	letter-spacing: -0.01em;
+	font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", "Helvetica",
+		"Arial", sans-serif;
+	border-radius: 12px;
+	padding-left: 11px;
+	padding-right: 11px;
+	padding-top: 3px;
+	padding-bottom: 3px;
+}
+
+.main [data-module-template="heroes"] [data-unit-id="watch-series-7"] .violator-reduced:lang(ar) {
+	letter-spacing: 0em;
+	font-family: "SF Pro AR", "SF Pro Gulf", "SF Pro Text", "SF Pro Icons",
+		"Helvetica Neue", "Helvetica", "Arial", sans-serif;
+}
+
+.main [data-module-template="heroes"] [data-unit-id="watch-series-7"] .violator-reduced:lang(ja) {
+	letter-spacing: 0em;
+	font-family: "SF Pro JP", "SF Pro Text", "SF Pro Icons",
+		"Hiragino Kaku Gothic Pro", "ヒラギノ角ゴ Pro W3", "メイリオ", "Meiryo",
+		"ＭＳ Ｐゴシック", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+}
+
+.main [data-module-template="heroes"] [data-unit-id="watch-series-7"] .violator-reduced:lang(ko) {
+	letter-spacing: 0em;
+	font-family: "SF Pro KR", "SF Pro Text", "SF Pro Icons", "Apple Gothic",
+		"HY Gulim", "MalgunGothic", "HY Dotum", "Lexi Gulim", "Helvetica Neue",
+		"Helvetica", "Arial", sans-serif;
+}
+
+.main [data-module-template="heroes"] [data-unit-id="watch-series-7"] .violator-reduced:lang(zh) {
+	letter-spacing: 0em;
+}
+
+.main [data-module-template="heroes"] [data-unit-id="watch-series-7"] .violator-reduced:lang(th) {
+	font-family: "SF Pro TH", "SF Pro Text", "SF Pro Icons", "Helvetica Neue",
+		"Helvetica", "Arial", sans-serif;
+}
+
+.main [data-module-template="heroes"] [data-unit-id="watch-series-7"] .violator-reduced:lang(zh-CN) {
+	font-family: "SF Pro SC", "SF Pro Text", "SF Pro Icons", "PingFang SC",
+		"Helvetica Neue", "Helvetica", "Arial", sans-serif;
+}
+
+.main [data-module-template="heroes"] [data-unit-id="watch-series-7"] .violator-reduced:lang(zh-HK) {
+	font-family: "SF Pro HK", "SF Pro Text", "SF Pro Icons", "PingFang HK",
+		"Helvetica Neue", "Helvetica", "Arial", sans-serif;
+}
+
+.main [data-module-template="heroes"] [data-unit-id="watch-series-7"] .violator-reduced:lang(zh-MO) {
+	font-family: "SF Pro HK", "SF Pro TC", "SF Pro Text", "SF Pro Icons",
+		"PingFang HK", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+}
+
+.main [data-module-template="heroes"] [data-unit-id="watch-series-7"] .violator-reduced:lang(zh-TW) {
+	font-family: "SF Pro TC", "SF Pro Text", "SF Pro Icons", "PingFang TC",
+		"Helvetica Neue", "Helvetica", "Arial", sans-serif;
+}
+
+.main [data-module-template="heroes"] [data-unit-id="watch-series-7"] .violator-reduced.violator-inline {
+	margin-left: 6px;
+	display: inline-block;
+}
+
+.main [data-module-template="heroes"] [data-unit-id="watch-series-7"] .violator-frameless {
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+	white-space: nowrap;
+	display: block;
+	color: #bf4800;
+}
+
+.main [data-module-template="heroes"] [data-unit-id="watch-series-7"] .violator-frameless-inline {
+	margin-left: 10px;
+	display: inline-block;
+}
+
+.main [data-module-template="heroes"] [data-unit-id="watch-series-7"] .violator-frameless.violator-frameless-reduced {
+	font-size: 12px;
+	line-height: 1.33337;
+	font-weight: 400;
+	letter-spacing: -0.01em;
+	font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", "Helvetica",
+		"Arial", sans-serif;
+	border-radius: 0;
+	padding-left: 0;
+	padding-right: 0;
+	padding-top: 0;
+	padding-bottom: 0;
+	display: block;
+}
+
+.main [data-module-template="heroes"] [data-unit-id="watch-series-7"] .violator-frameless.violator-frameless-reduced:lang(ar) {
+	letter-spacing: 0em;
+	font-family: "SF Pro AR", "SF Pro Gulf", "SF Pro Text", "SF Pro Icons",
+		"Helvetica Neue", "Helvetica", "Arial", sans-serif;
+}
+
+.main [data-module-template="heroes"] [data-unit-id="watch-series-7"] .violator-frameless.violator-frameless-reduced:lang(ja) {
+	letter-spacing: 0em;
+	font-family: "SF Pro JP", "SF Pro Text", "SF Pro Icons",
+		"Hiragino Kaku Gothic Pro", "ヒラギノ角ゴ Pro W3", "メイリオ", "Meiryo",
+		"ＭＳ Ｐゴシック", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+}
+
+.main [data-module-template="heroes"] [data-unit-id="watch-series-7"] .violator-frameless.violator-frameless-reduced:lang(ko) {
+	letter-spacing: 0em;
+	font-family: "SF Pro KR", "SF Pro Text", "SF Pro Icons", "Apple Gothic",
+		"HY Gulim", "MalgunGothic", "HY Dotum", "Lexi Gulim", "Helvetica Neue",
+		"Helvetica", "Arial", sans-serif;
+}
+
+.main [data-module-template="heroes"] [data-unit-id="watch-series-7"] .violator-frameless.violator-frameless-reduced:lang(zh) {
+	letter-spacing: 0em;
+}
+
+.main [data-module-template="heroes"] [data-unit-id="watch-series-7"] .violator-frameless.violator-frameless-reduced:lang(th) {
+	font-family: "SF Pro TH", "SF Pro Text", "SF Pro Icons", "Helvetica Neue",
+		"Helvetica", "Arial", sans-serif;
+}
+
+.main [data-module-template="heroes"] [data-unit-id="watch-series-7"] .violator-frameless.violator-frameless-reduced:lang(zh-CN) {
+	font-family: "SF Pro SC", "SF Pro Text", "SF Pro Icons", "PingFang SC",
+		"Helvetica Neue", "Helvetica", "Arial", sans-serif;
+}
+
+.main [data-module-template="heroes"] [data-unit-id="watch-series-7"] .violator-frameless.violator-frameless-reduced:lang(zh-HK) {
+	font-family: "SF Pro HK", "SF Pro Text", "SF Pro Icons", "PingFang HK",
+		"Helvetica Neue", "Helvetica", "Arial", sans-serif;
+}
+
+.main [data-module-template="heroes"] [data-unit-id="watch-series-7"] .violator-frameless.violator-frameless-reduced:lang(zh-MO) {
+	font-family: "SF Pro HK", "SF Pro TC", "SF Pro Text", "SF Pro Icons",
+		"PingFang HK", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+}
+
+.main [data-module-template="heroes"] [data-unit-id="watch-series-7"] .violator-frameless.violator-frameless-reduced:lang(zh-TW) {
+	font-family: "SF Pro TC", "SF Pro Text", "SF Pro Icons", "PingFang TC",
+		"Helvetica Neue", "Helvetica", "Arial", sans-serif;
+}
+
+.main [data-module-template="heroes"] [data-unit-id="watch-series-7"] .violator-frameless.violator-frameless-reduced.violator-frameless-inline {
+	margin-left: 6px;
+	display: inline-block;
+}
+
+.main [data-module-template="heroes"] [data-unit-id="watch-series-7"] .unit-copy-wrapper {
+	padding-top: 34px;
+}
+
+@media only screen and (max-width: 1068px) {
+	.main [data-module-template="heroes"] [data-unit-id="watch-series-7"] .unit-copy-wrapper {
+		padding-top: 41px;
+	}
+}
+
+@media only screen and (max-width: 734px) {
+	.main [data-module-template="heroes"] [data-unit-id="watch-series-7"] .unit-copy-wrapper {
+		padding-top: 32px;
+	}
+}
+
+@media only screen and (min-width: 1069px) and (min-height: 776px) {
+	.main [data-module-template="heroes"] [data-unit-id="watch-series-7"] .unit-copy-wrapper {
+		padding-top: 42px;
+	}
+}
+
+@media only screen and (max-width: 1068px) and (min-width: 735px) and (min-height: 734px) {
+	.main [data-module-template="heroes"] [data-unit-id="watch-series-7"] .unit-copy-wrapper {
+		padding-top: 49px;
+	}
+}
+
+@media only screen and (max-width: 734px) {
+	.main [data-module-template="heroes"] [data-unit-id="watch-series-7"] .unit-copy-wrapper .violator-frameless {
+		font-size: 12px;
+		line-height: 1.33337;
+		font-weight: 400;
+		letter-spacing: -0.01em;
+		font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue",
+			"Helvetica", "Arial", sans-serif;
+		border-radius: 0;
+		padding-left: 0;
+		padding-right: 0;
+		padding-top: 0;
+		padding-bottom: 0;
+		display: block;
+	}
+
+	.main [data-module-template="heroes"] [data-unit-id="watch-series-7"] .unit-copy-wrapper .violator-frameless:lang(ar) {
+		letter-spacing: 0em;
+		font-family: "SF Pro AR", "SF Pro Gulf", "SF Pro Text", "SF Pro Icons",
+			"Helvetica Neue", "Helvetica", "Arial", sans-serif;
+	}
+
+	.main [data-module-template="heroes"] [data-unit-id="watch-series-7"] .unit-copy-wrapper .violator-frameless:lang(ja) {
+		letter-spacing: 0em;
+		font-family: "SF Pro JP", "SF Pro Text", "SF Pro Icons",
+			"Hiragino Kaku Gothic Pro", "ヒラギノ角ゴ Pro W3", "メイリオ",
+			"Meiryo", "ＭＳ Ｐゴシック", "Helvetica Neue", "Helvetica", "Arial",
+			sans-serif;
+	}
+
+	.main [data-module-template="heroes"] [data-unit-id="watch-series-7"] .unit-copy-wrapper .violator-frameless:lang(ko) {
+		letter-spacing: 0em;
+		font-family: "SF Pro KR", "SF Pro Text", "SF Pro Icons", "Apple Gothic",
+			"HY Gulim", "MalgunGothic", "HY Dotum", "Lexi Gulim",
+			"Helvetica Neue", "Helvetica", "Arial", sans-serif;
+	}
+
+	.main [data-module-template="heroes"] [data-unit-id="watch-series-7"] .unit-copy-wrapper .violator-frameless:lang(zh) {
+		letter-spacing: 0em;
+	}
+
+	.main [data-module-template="heroes"] [data-unit-id="watch-series-7"] .unit-copy-wrapper .violator-frameless:lang(th) {
+		font-family: "SF Pro TH", "SF Pro Text", "SF Pro Icons",
+			"Helvetica Neue", "Helvetica", "Arial", sans-serif;
+	}
+
+	.main [data-module-template="heroes"] [data-unit-id="watch-series-7"] .unit-copy-wrapper .violator-frameless:lang(zh-CN) {
+		font-family: "SF Pro SC", "SF Pro Text", "SF Pro Icons", "PingFang SC",
+			"Helvetica Neue", "Helvetica", "Arial", sans-serif;
+	}
+
+	.main [data-module-template="heroes"] [data-unit-id="watch-series-7"] .unit-copy-wrapper .violator-frameless:lang(zh-HK) {
+		font-family: "SF Pro HK", "SF Pro Text", "SF Pro Icons", "PingFang HK",
+			"Helvetica Neue", "Helvetica", "Arial", sans-serif;
+	}
+
+	.main [data-module-template="heroes"] [data-unit-id="watch-series-7"] .unit-copy-wrapper .violator-frameless:lang(zh-MO) {
+		font-family: "SF Pro HK", "SF Pro TC", "SF Pro Text", "SF Pro Icons",
+			"PingFang HK", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+	}
+
+	.main [data-module-template="heroes"] [data-unit-id="watch-series-7"] .unit-copy-wrapper .violator-frameless:lang(zh-TW) {
+		font-family: "SF Pro TC", "SF Pro Text", "SF Pro Icons", "PingFang TC",
+			"Helvetica Neue", "Helvetica", "Arial", sans-serif;
+	}
+}
+
+.main [data-module-template="heroes"] [data-unit-id="watch-series-7"] .unit-copy-wrapper .subhead {
+	margin-top: 15px;
+}
+
+@media only screen and (max-width: 1068px) {
+	.main [data-module-template="heroes"] [data-unit-id="watch-series-7"] .unit-copy-wrapper .subhead {
+		margin-top: 18px;
+	}
+}
+
+@media only screen and (max-width: 734px) {
+	.main [data-module-template="heroes"] [data-unit-id="watch-series-7"] .unit-copy-wrapper .subhead {
+		margin-top: 7px;
+	}
+}
+
+@media only screen and (min-width: 1069px) and (min-height: 776px) {
+	.main [data-module-template="heroes"] [data-unit-id="watch-series-7"] .unit-copy-wrapper .subhead {
+		margin-top: 19px;
+	}
+}
+
+.main [data-module-template="promos"] [data-unit-id="watch-series-7"] .violator {
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+	white-space: nowrap;
+	display: inline-block;
+	border: 1px solid;
+	background: rgba(0, 0, 0, 0);
+	border-color: #bf4800;
+	color: #bf4800;
+	font-size: 17px;
+	line-height: 1.17648;
+	font-weight: 400;
+	letter-spacing: -0.022em;
+	font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", "Helvetica",
+		"Arial", sans-serif;
+	border-radius: 18px;
+	padding-left: 18px;
+	padding-right: 18px;
+	padding-top: 7px;
+	padding-bottom: 7px;
+}
+
+.main [data-module-template="promos"] [data-unit-id="watch-series-7"] .violator:lang(ar) {
+	letter-spacing: 0em;
+	font-family: "SF Pro AR", "SF Pro Gulf", "SF Pro Text", "SF Pro Icons",
+		"Helvetica Neue", "Helvetica", "Arial", sans-serif;
+}
+
+.main [data-module-template="promos"] [data-unit-id="watch-series-7"] .violator:lang(ja) {
+	letter-spacing: 0em;
+	font-family: "SF Pro JP", "SF Pro Text", "SF Pro Icons",
+		"Hiragino Kaku Gothic Pro", "ヒラギノ角ゴ Pro W3", "メイリオ", "Meiryo",
+		"ＭＳ Ｐゴシック", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+}
+
+.main [data-module-template="promos"] [data-unit-id="watch-series-7"] .violator:lang(ko) {
+	letter-spacing: 0em;
+	font-family: "SF Pro KR", "SF Pro Text", "SF Pro Icons", "Apple Gothic",
+		"HY Gulim", "MalgunGothic", "HY Dotum", "Lexi Gulim", "Helvetica Neue",
+		"Helvetica", "Arial", sans-serif;
+}
+
+.main [data-module-template="promos"] [data-unit-id="watch-series-7"] .violator:lang(zh) {
+	letter-spacing: 0em;
+}
+
+.main [data-module-template="promos"] [data-unit-id="watch-series-7"] .violator:lang(th) {
+	font-family: "SF Pro TH", "SF Pro Text", "SF Pro Icons", "Helvetica Neue",
+		"Helvetica", "Arial", sans-serif;
+}
+
+.main [data-module-template="promos"] [data-unit-id="watch-series-7"] .violator:lang(zh-CN) {
+	font-family: "SF Pro SC", "SF Pro Text", "SF Pro Icons", "PingFang SC",
+		"Helvetica Neue", "Helvetica", "Arial", sans-serif;
+}
+
+.main [data-module-template="promos"] [data-unit-id="watch-series-7"] .violator:lang(zh-HK) {
+	font-family: "SF Pro HK", "SF Pro Text", "SF Pro Icons", "PingFang HK",
+		"Helvetica Neue", "Helvetica", "Arial", sans-serif;
+}
+
+.main [data-module-template="promos"] [data-unit-id="watch-series-7"] .violator:lang(zh-MO) {
+	font-family: "SF Pro HK", "SF Pro TC", "SF Pro Text", "SF Pro Icons",
+		"PingFang HK", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+}
+
+.main [data-module-template="promos"] [data-unit-id="watch-series-7"] .violator:lang(zh-TW) {
+	font-family: "SF Pro TC", "SF Pro Text", "SF Pro Icons", "PingFang TC",
+		"Helvetica Neue", "Helvetica", "Arial", sans-serif;
+}
+
+.main [data-module-template="promos"] [data-unit-id="watch-series-7"] .violator-inline {
+	margin-left: 10px;
+	display: inline-block;
+}
+
+.main [data-module-template="promos"] [data-unit-id="watch-series-7"] .violator-secondary {
+	background: rgba(0, 0, 0, 0);
+	border-color: #6e6e73;
+	color: #6e6e73;
+}
+
+.main [data-module-template="promos"] [data-unit-id="watch-series-7"] .violator-reduced {
+	font-size: 12px;
+	line-height: 1.33337;
+	font-weight: 400;
+	letter-spacing: -0.01em;
+	font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", "Helvetica",
+		"Arial", sans-serif;
+	border-radius: 12px;
+	padding-left: 11px;
+	padding-right: 11px;
+	padding-top: 3px;
+	padding-bottom: 3px;
+}
+
+.main [data-module-template="promos"] [data-unit-id="watch-series-7"] .violator-reduced:lang(ar) {
+	letter-spacing: 0em;
+	font-family: "SF Pro AR", "SF Pro Gulf", "SF Pro Text", "SF Pro Icons",
+		"Helvetica Neue", "Helvetica", "Arial", sans-serif;
+}
+
+.main [data-module-template="promos"] [data-unit-id="watch-series-7"] .violator-reduced:lang(ja) {
+	letter-spacing: 0em;
+	font-family: "SF Pro JP", "SF Pro Text", "SF Pro Icons",
+		"Hiragino Kaku Gothic Pro", "ヒラギノ角ゴ Pro W3", "メイリオ", "Meiryo",
+		"ＭＳ Ｐゴシック", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+}
+
+.main [data-module-template="promos"] [data-unit-id="watch-series-7"] .violator-reduced:lang(ko) {
+	letter-spacing: 0em;
+	font-family: "SF Pro KR", "SF Pro Text", "SF Pro Icons", "Apple Gothic",
+		"HY Gulim", "MalgunGothic", "HY Dotum", "Lexi Gulim", "Helvetica Neue",
+		"Helvetica", "Arial", sans-serif;
+}
+
+.main [data-module-template="promos"] [data-unit-id="watch-series-7"] .violator-reduced:lang(zh) {
+	letter-spacing: 0em;
+}
+
+.main [data-module-template="promos"] [data-unit-id="watch-series-7"] .violator-reduced:lang(th) {
+	font-family: "SF Pro TH", "SF Pro Text", "SF Pro Icons", "Helvetica Neue",
+		"Helvetica", "Arial", sans-serif;
+}
+
+.main [data-module-template="promos"] [data-unit-id="watch-series-7"] .violator-reduced:lang(zh-CN) {
+	font-family: "SF Pro SC", "SF Pro Text", "SF Pro Icons", "PingFang SC",
+		"Helvetica Neue", "Helvetica", "Arial", sans-serif;
+}
+
+.main [data-module-template="promos"] [data-unit-id="watch-series-7"] .violator-reduced:lang(zh-HK) {
+	font-family: "SF Pro HK", "SF Pro Text", "SF Pro Icons", "PingFang HK",
+		"Helvetica Neue", "Helvetica", "Arial", sans-serif;
+}
+
+.main [data-module-template="promos"] [data-unit-id="watch-series-7"] .violator-reduced:lang(zh-MO) {
+	font-family: "SF Pro HK", "SF Pro TC", "SF Pro Text", "SF Pro Icons",
+		"PingFang HK", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+}
+
+.main [data-module-template="promos"] [data-unit-id="watch-series-7"] .violator-reduced:lang(zh-TW) {
+	font-family: "SF Pro TC", "SF Pro Text", "SF Pro Icons", "PingFang TC",
+		"Helvetica Neue", "Helvetica", "Arial", sans-serif;
+}
+
+.main [data-module-template="promos"] [data-unit-id="watch-series-7"] .violator-reduced.violator-inline {
+	margin-left: 6px;
+	display: inline-block;
+}
+
+.main [data-module-template="promos"] [data-unit-id="watch-series-7"] .violator-frameless {
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+	white-space: nowrap;
+	display: block;
+	color: #bf4800;
+}
+
+.main [data-module-template="promos"] [data-unit-id="watch-series-7"] .violator-frameless-inline {
+	margin-left: 10px;
+	display: inline-block;
+}
+
+.main [data-module-template="promos"] [data-unit-id="watch-series-7"] .violator-frameless.violator-frameless-reduced {
+	font-size: 12px;
+	line-height: 1.33337;
+	font-weight: 400;
+	letter-spacing: -0.01em;
+	font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", "Helvetica",
+		"Arial", sans-serif;
+	border-radius: 0;
+	padding-left: 0;
+	padding-right: 0;
+	padding-top: 0;
+	padding-bottom: 0;
+	display: block;
+}
+
+.main [data-module-template="promos"] [data-unit-id="watch-series-7"] .violator-frameless.violator-frameless-reduced:lang(ar) {
+	letter-spacing: 0em;
+	font-family: "SF Pro AR", "SF Pro Gulf", "SF Pro Text", "SF Pro Icons",
+		"Helvetica Neue", "Helvetica", "Arial", sans-serif;
+}
+
+.main [data-module-template="promos"] [data-unit-id="watch-series-7"] .violator-frameless.violator-frameless-reduced:lang(ja) {
+	letter-spacing: 0em;
+	font-family: "SF Pro JP", "SF Pro Text", "SF Pro Icons",
+		"Hiragino Kaku Gothic Pro", "ヒラギノ角ゴ Pro W3", "メイリオ", "Meiryo",
+		"ＭＳ Ｐゴシック", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+}
+
+.main [data-module-template="promos"] [data-unit-id="watch-series-7"] .violator-frameless.violator-frameless-reduced:lang(ko) {
+	letter-spacing: 0em;
+	font-family: "SF Pro KR", "SF Pro Text", "SF Pro Icons", "Apple Gothic",
+		"HY Gulim", "MalgunGothic", "HY Dotum", "Lexi Gulim", "Helvetica Neue",
+		"Helvetica", "Arial", sans-serif;
+}
+
+.main [data-module-template="promos"] [data-unit-id="watch-series-7"] .violator-frameless.violator-frameless-reduced:lang(zh) {
+	letter-spacing: 0em;
+}
+
+.main [data-module-template="promos"] [data-unit-id="watch-series-7"] .violator-frameless.violator-frameless-reduced:lang(th) {
+	font-family: "SF Pro TH", "SF Pro Text", "SF Pro Icons", "Helvetica Neue",
+		"Helvetica", "Arial", sans-serif;
+}
+
+.main [data-module-template="promos"] [data-unit-id="watch-series-7"] .violator-frameless.violator-frameless-reduced:lang(zh-CN) {
+	font-family: "SF Pro SC", "SF Pro Text", "SF Pro Icons", "PingFang SC",
+		"Helvetica Neue", "Helvetica", "Arial", sans-serif;
+}
+
+.main [data-module-template="promos"] [data-unit-id="watch-series-7"] .violator-frameless.violator-frameless-reduced:lang(zh-HK) {
+	font-family: "SF Pro HK", "SF Pro Text", "SF Pro Icons", "PingFang HK",
+		"Helvetica Neue", "Helvetica", "Arial", sans-serif;
+}
+
+.main [data-module-template="promos"] [data-unit-id="watch-series-7"] .violator-frameless.violator-frameless-reduced:lang(zh-MO) {
+	font-family: "SF Pro HK", "SF Pro TC", "SF Pro Text", "SF Pro Icons",
+		"PingFang HK", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+}
+
+.main [data-module-template="promos"] [data-unit-id="watch-series-7"] .violator-frameless.violator-frameless-reduced:lang(zh-TW) {
+	font-family: "SF Pro TC", "SF Pro Text", "SF Pro Icons", "PingFang TC",
+		"Helvetica Neue", "Helvetica", "Arial", sans-serif;
+}
+
+.main [data-module-template="promos"] [data-unit-id="watch-series-7"] .violator-frameless.violator-frameless-reduced.violator-frameless-inline {
+	margin-left: 6px;
+	display: inline-block;
+}
+
+.main [data-module-template="promos"] [data-unit-id="watch-series-7"] .unit-copy-wrapper {
+	text-align: center;
+}
+
+.main [data-module-template="promos"] [data-unit-id="watch-series-7"] .unit-copy-wrapper .violator-frameless-reduced {
+	margin-top: 31px;
+}
+
+@media only screen and (max-width: 1068px) {
+	.main [data-module-template="promos"] [data-unit-id="watch-series-7"] .unit-copy-wrapper .violator-frameless-reduced {
+		margin-top: 26px;
+	}
+}
+
+@media only screen and (max-width: 734px) {
+	.main [data-module-template="promos"] [data-unit-id="watch-series-7"] .unit-copy-wrapper .violator-frameless-reduced {
+		margin-top: 32px;
+	}
+}
+
+.main [data-module-template="promos"] [data-unit-id="watch-series-7"] .unit-copy-wrapper .headline {
+	margin-top: 8px;
+}
+
+@media only screen and (max-width: 1068px) {
+	.main [data-module-template="promos"] [data-unit-id="watch-series-7"] .unit-copy-wrapper .headline {
+		margin-top: 3px;
+	}
+}
+
+@media only screen and (max-width: 734px) {
+	.main [data-module-template="promos"] [data-unit-id="watch-series-7"] .unit-copy-wrapper .headline {
+		margin-top: 0;
+	}
+}
+
+.main [data-module-template="promos"] [data-unit-id="watch-series-7"] .unit-copy-wrapper .subhead {
+	margin-top: 10px;
+}
+
+@media only screen and (max-width: 1068px) {
+	.main [data-module-template="promos"] [data-unit-id="watch-series-7"] .unit-copy-wrapper .subhead {
+		margin-top: 11px;
+	}
+}
+
+@media only screen and (max-width: 734px) {
+	.main [data-module-template="promos"] [data-unit-id="watch-series-7"] .unit-copy-wrapper .subhead {
+		margin-top: 7px;
+	}
+}
+
+.main [data-module-template="promos"] [data-unit-id="watch-series-7"] .unit-copy-wrapper .headline {
+	margin-top: 50px;
+}
+@media only screen and (max-width: 1068px) {
+	.main [data-module-template="promos"] [data-unit-id="watch-series-7"] .unit-copy-wrapper .headline {
+		margin-top: 46px;
+	}
+}
+@media only screen and (max-width: 800px) {
+	.main [data-module-template="promos"] [data-unit-id="watch-series-7"] .unit-copy-wrapper .headline {
+		margin-top: 40px;
+	}
+}
+
+@media only screen and (max-width: 734px) {
+	.main [data-module-template="promos"] [data-unit-id="watch-series-7"] .unit-copy-wrapper .headline {
+		margin-top: 40px;
+	}
+}
+/* end promos/watch-series-7 */
+
+/* start promos/arcade-bundle */
+.main [data-module-template="promos"] [data-unit-id="arcade-bundle"] .unit-copy-wrapper .headline {
+	margin-top: 50px;
+}
+@media only screen and (max-width: 1068px) {
+	.main [data-module-template="promos"] [data-unit-id="arcade-bundle"] .unit-copy-wrapper .headline {
+		margin-top: 46px;
+	}
+}
+@media only screen and (max-width: 800px) {
+	.main [data-module-template="promos"] [data-unit-id="arcade-bundle"] .unit-copy-wrapper .headline {
+		margin-top: 40px;
+	}
+}
+
+@media only screen and (max-width: 734px) {
+	.main [data-module-template="promos"] [data-unit-id="arcade-bundle"] .unit-copy-wrapper .headline {
+		margin-top: 40px;
+	}
+}
+
+.small-800 {
+	display: none;
+}
+@media only screen and (max-width: 800px) {
+	.small-800 {
+		display: block;
+	}
+}
+.x_small {
+	display: none;
+}
+@media only screen and (max-width: 320px) {
+	.x_small {
+		display: block;
+	}
+}
+
+body > main > section:nth-child(2) > div:nth-child(5) > div > div > div.unit-image-wrapper > figure {
+	bottom: -26px;
+}
+
+@media only screen and (max-width: 1068px) {
+	body > main > section:nth-child(2) > div:nth-child(5) > div > div > div.unit-image-wrapper > figure {
+		bottom: 0;
+	}
+}
+@media only screen and (max-width: 800px) {
+	body > main > section:nth-child(2) > div:nth-child(5) > div > div > div.unit-image-wrapper > figure {
+		bottom: -20px;
+	}
+}
+
+@media only screen and (max-width: 734px) {
+	body > main > section:nth-child(2) > div:nth-child(5) > div > div > div.unit-image-wrapper > figure {
+		bottom: 0;
+	}
+}
+
+.main [data-module-template="promos"] [data-unit-id] .unit-copy-wrapper .cta-links a:not(:only-child):not(:first-child) {
+	margin-left: 28px;
+}
+
+@media only screen and (max-width: 1068px) {
+	.main [data-module-template="promos"] [data-unit-id] .unit-copy-wrapper .cta-links a:not(:only-child):not(:first-child) {
+		margin-left: 27px;
+	}
+}
+@media only screen and (min-width: 735px) and (max-width: 800px) {
+	.main [data-module-template="promos"] [data-unit-id] .unit-copy-wrapper .cta-links a:not(:only-child):not(:first-child) {
+		display: inline-block;
+		margin-top: 3px;
+		margin-left: 0;
+	}
+}
+
+@media only screen and (max-width: 734px) {
+	.main [data-module-template="promos"] [data-unit-id] .unit-copy-wrapper .cta-links a:not(:only-child):not(:first-child) {
+		display: inline-block;
+		margin-top: 3px;
+		margin-left: 0;
+	}
+}
+/* end promos/arcade-bundle */
+
+/* start promos/tv-plus-device-offer */
+.logo-image-tv-plus-device-offer-logo {
+	width: 86px;
+	height: 34px;
+	background-size: 86px 34px;
+	background-repeat: no-repeat;
+	background-image: url("../images/logos/tv-plus-device-offer/logo__dcojfwkzna2q_large.png");
+	background-position: center;
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+	.logo-image-tv-plus-device-offer-logo {
+		background-image: url("../images/logos/tv-plus-device-offer/logo__dcojfwkzna2q_large_2x.png");
+	}
+}
+
+@media only screen and (max-width: 1068px) {
+	.logo-image-tv-plus-device-offer-logo {
+		width: 68px;
+		height: 28px;
+		background-size: 68px 28px;
+		background-repeat: no-repeat;
+		background-image: url("../images/logos/tv-plus-device-offer/logo__dcojfwkzna2q_medium.png");
+	}
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+	.logo-image-tv-plus-device-offer-logo {
+		background-image: url("../images/logos/tv-plus-device-offer/logo__dcojfwkzna2q_medium_2x.png");
+	}
+}
+
+@media only screen and (max-width: 734px) {
+	.logo-image-tv-plus-device-offer-logo {
+		width: 68px;
+		height: 28px;
+		background-size: 68px 28px;
+		background-repeat: no-repeat;
+		background-image: url("../images/logos/tv-plus-device-offer/logo__dcojfwkzna2q_small.png");
+	}
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 734px) and (min-resolution: 1.5dppx), only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+	.logo-image-tv-plus-device-offer-logo {
+		background-image: url("../images/logos/tv-plus-device-offer/logo__dcojfwkzna2q_small_2x.png");
+	}
+}
+
+.main [data-module-template="promos"] .unit-image-wrapper .unit-image.unit-image-tv-plus-device-offer-tile-greyhound {
+	width: 702px;
+	height: 789px;
+	background-size: 702px 789px;
+	background-repeat: no-repeat;
+	background-image: url("../images/promos/tv-plus-device-offer/tile_freeshows_large.jpg");
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+	.main [data-module-template="promos"] .unit-image-wrapper .unit-image.unit-image-tv-plus-device-offer-tile-greyhound {
+		background-image: url("../images/promos/tv-plus-device-offer/tile_freeshows_large_2x.jpg");
+	}
+}
+
+@media only screen and (min-width: 1441px) {
+	.main [data-module-template="promos"] .unit-image-wrapper .unit-image.unit-image-tv-plus-device-offer-tile-greyhound {
+		width: 1265px;
+		height: 580px;
+		background-size: 1265px 580px;
+		background-repeat: no-repeat;
+		background-image: url("../images/promos/tv-plus-device-offer/tile_freeshows_xlarge.jpg");
+	}
+}
+
+@media only screen and (min-width: 1441px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-width: 1441px) and (min-resolution: 1.5dppx), only screen and (min-width: 1441px) and (min-resolution: 144dpi) {
+	.main [data-module-template="promos"] .unit-image-wrapper .unit-image.unit-image-tv-plus-device-offer-tile-greyhound {
+		background-image: url("../images/promos/tv-plus-device-offer/tile_freeshows_xlarge_2x.jpg");
+	}
+}
+
+@media only screen and (max-width: 1068px) {
+	.main [data-module-template="promos"] .unit-image-wrapper .unit-image.unit-image-tv-plus-device-offer-tile-greyhound {
+		width: 516px;
+		height: 723px;
+		background-size: 516px 723px;
+		background-repeat: no-repeat;
+		background-image: url("../images/promos/tv-plus-device-offer/tile_freeshows_medium.jpg");
+	}
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+	.main [data-module-template="promos"] .unit-image-wrapper .unit-image.unit-image-tv-plus-device-offer-tile-greyhound {
+		background-image: url("../images/promos/tv-plus-device-offer/tile_freeshows_medium_2x.jpg");
+	}
+}
+
+@media only screen and (max-width: 734px) {
+	.main [data-module-template="promos"] .unit-image-wrapper .unit-image.unit-image-tv-plus-device-offer-tile-greyhound {
+		width: 734px;
+		height: 1147px;
+		background-size: 734px 1147px;
+		background-repeat: no-repeat;
+		background-image: url("../images/promos/tv-plus-device-offer/tile_freeshows_small.jpg");
+	}
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 734px) and (min-resolution: 1.5dppx), only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+	.main [data-module-template="promos"] .unit-image-wrapper .unit-image.unit-image-tv-plus-device-offer-tile-greyhound {
+		background-image: url("../images/promos/tv-plus-device-offer/tile_freeshows_small_2x.jpg");
+	}
+}
+
+.main [data-module-template="promos"] [data-unit-id="tv-plus-device-offer"] .button {
+	cursor: pointer;
+	display: inline-block;
+	text-align: center;
+	white-space: nowrap;
+	font-size: 17px;
+	line-height: 1.17648;
+	font-weight: 400;
+	letter-spacing: -0.022em;
+	font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", "Helvetica",
+		"Arial", sans-serif;
+	min-width: 28px;
+	padding-left: 16px;
+	padding-right: 16px;
+	padding-top: 8px;
+	padding-bottom: 8px;
+	border-radius: 18px;
+	background: #0071e3;
+	color: #fff;
+}
+
+.main [data-module-template="promos"] [data-unit-id="tv-plus-device-offer"] .button:hover {
+	text-decoration: none;
+}
+
+.main [data-module-template="promos"] [data-unit-id="tv-plus-device-offer"] .button:focus {
+	-webkit-box-shadow: 0 0 0 4px rgba(0, 125, 250, 0.6);
+	box-shadow: 0 0 0 4px rgba(0, 125, 250, 0.6);
+	outline: none;
+}
+
+.main [data-module-template="promos"] [data-unit-id="tv-plus-device-offer"] .button:focus[data-focus-method="mouse"]:not(input):not(textarea):not(select), .main [data-module-template="promos"] [data-unit-id="tv-plus-device-offer"] .button:focus[data-focus-method="touch"]:not(input):not(textarea):not(select) {
+	-webkit-box-shadow: none;
+	box-shadow: none;
+}
+
+.main [data-module-template="promos"] [data-unit-id="tv-plus-device-offer"] .button:active {
+	outline: none;
+}
+
+.main [data-module-template="promos"] [data-unit-id="tv-plus-device-offer"] .button:disabled, .main [data-module-template="promos"] [data-unit-id="tv-plus-device-offer"] .button.disabled {
+	cursor: default;
+}
+
+.main [data-module-template="promos"] [data-unit-id="tv-plus-device-offer"] .button:hover {
+	background: #0077ed;
+}
+
+.main [data-module-template="promos"] [data-unit-id="tv-plus-device-offer"] .button:active {
+	background: #006edb;
+}
+
+.main [data-module-template="promos"] [data-unit-id="tv-plus-device-offer"] .button:disabled, .main [data-module-template="promos"] [data-unit-id="tv-plus-device-offer"] .button.disabled {
+	background: #0071e3;
+	color: #fff;
+	opacity: 0.32;
+}
+
+.main [data-module-template="promos"] [data-unit-id="tv-plus-device-offer"] .button-block {
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+	display: block;
+	width: 100%;
+	border-radius: 8px;
+}
+
+.main [data-module-template="promos"] [data-unit-id="tv-plus-device-offer"] .button-neutral {
+	background: #1d1d1f;
+	color: #fff;
+}
+
+.main [data-module-template="promos"] [data-unit-id="tv-plus-device-offer"] .button-neutral:hover {
+	background: #272729;
+}
+
+.main [data-module-template="promos"] [data-unit-id="tv-plus-device-offer"] .button-neutral:active {
+	background: #18181a;
+}
+
+.main [data-module-template="promos"] [data-unit-id="tv-plus-device-offer"] .button-neutral:disabled, .main [data-module-template="promos"] [data-unit-id="tv-plus-device-offer"] .button-neutral.disabled {
+	background: #1d1d1f;
+	color: #fff;
+	opacity: 0.32;
+}
+
+.main [data-module-template="promos"] [data-unit-id="tv-plus-device-offer"] .button-secondary {
+	background: #e8e8ed;
+	color: #000;
+}
+
+.main [data-module-template="promos"] [data-unit-id="tv-plus-device-offer"] .button-secondary:hover {
+	background: #ebebf0;
+}
+
+.main [data-module-template="promos"] [data-unit-id="tv-plus-device-offer"] .button-secondary:active {
+	background: #e6e6eb;
+}
+
+.main [data-module-template="promos"] [data-unit-id="tv-plus-device-offer"] .button-secondary:disabled, .main [data-module-template="promos"] [data-unit-id="tv-plus-device-offer"] .button-secondary.disabled {
+	background: #e8e8ed;
+	color: #000;
+	opacity: 0.56;
+}
+
+.main [data-module-template="promos"] [data-unit-id="tv-plus-device-offer"] .button-secondary-alpha {
+	background: rgba(0, 0, 0, 0.08);
+	color: #000;
+}
+
+.main [data-module-template="promos"] [data-unit-id="tv-plus-device-offer"] .button-secondary-alpha:hover {
+	background: rgba(0, 0, 0, 0.07);
+}
+
+.main [data-module-template="promos"] [data-unit-id="tv-plus-device-offer"] .button-secondary-alpha:active {
+	background: rgba(0, 0, 0, 0.09);
+}
+
+.main [data-module-template="promos"] [data-unit-id="tv-plus-device-offer"] .button-secondary-alpha:disabled, .main [data-module-template="promos"] [data-unit-id="tv-plus-device-offer"] .button-secondary-alpha.disabled {
+	background: rgba(0, 0, 0, 0.08);
+	color: #000;
+	opacity: 0.56;
+}
+
+.main [data-module-template="promos"] [data-unit-id="tv-plus-device-offer"] .button-super {
+	font-size: 17px;
+	line-height: 1.17648;
+	font-weight: 400;
+	letter-spacing: -0.022em;
+	font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", "Helvetica",
+		"Arial", sans-serif;
+	min-width: 28px;
+	padding-left: 31px;
+	padding-right: 31px;
+	padding-top: 18px;
+	padding-bottom: 18px;
+	border-radius: 28px;
+}
+
+.main [data-module-template="promos"] [data-unit-id="tv-plus-device-offer"] .button-super.button-block {
+	border-radius: 12px;
+}
+
+.main [data-module-template="promos"] [data-unit-id="tv-plus-device-offer"] .button-elevated {
+	font-size: 17px;
+	line-height: 1.17648;
+	font-weight: 400;
+	letter-spacing: -0.022em;
+	font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", "Helvetica",
+		"Arial", sans-serif;
+	min-width: 26px;
+	padding-left: 22px;
+	padding-right: 22px;
+	padding-top: 12px;
+	padding-bottom: 12px;
+	border-radius: 22px;
+}
+
+.main [data-module-template="promos"] [data-unit-id="tv-plus-device-offer"] .button-elevated.button-block {
+	border-radius: 10px;
+}
+
+.main [data-module-template="promos"] [data-unit-id="tv-plus-device-offer"] .button-reduced {
+	font-size: 12px;
+	line-height: 1.33337;
+	font-weight: 400;
+	letter-spacing: -0.01em;
+	font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", "Helvetica",
+		"Arial", sans-serif;
+	min-width: 23px;
+	padding-left: 11px;
+	padding-right: 11px;
+	padding-top: 4px;
+	padding-bottom: 4px;
+	border-radius: 12px;
+}
+
+.main [data-module-template="promos"] [data-unit-id="tv-plus-device-offer"] .button-reduced.button-block {
+	border-radius: 5px;
+}
+
+.main [data-module-template="promos"] [data-unit-id="tv-plus-device-offer"] .background {
+	background: #000;
+}
+
+.main [data-module-template="promos"] [data-unit-id="tv-plus-device-offer"] .unit-copy-wrapper {
+	margin-top: auto;
+	padding-bottom: 56px;
+}
+
+@media only screen and (max-width: 1068px) {
+	.main [data-module-template="promos"] [data-unit-id="tv-plus-device-offer"] .unit-copy-wrapper {
+		padding-bottom: 43px;
+	}
+}
+
+@media only screen and (max-width: 734px) {
+	.main [data-module-template="promos"] [data-unit-id="tv-plus-device-offer"] .unit-copy-wrapper {
+		padding-bottom: 37px;
+	}
+}
+
+.main [data-module-template="promos"] [data-unit-id="tv-plus-device-offer"] .unit-copy-wrapper .subhead {
+	max-width: 300px;
+	margin-top: 11px;
+}
+
+@media only screen and (max-width: 1068px) {
+	.main [data-module-template="promos"] [data-unit-id="tv-plus-device-offer"] .unit-copy-wrapper .subhead {
+		max-width: 270px;
+		margin-top: 8px;
+	}
+}
+
+@media only screen and (max-width: 734px) {
+	.main [data-module-template="promos"] [data-unit-id="tv-plus-device-offer"] .unit-copy-wrapper .subhead {
+		max-width: 270px;
+		margin-top: 0.2em;
+	}
+}
+
+.main [data-module-template="promos"] [data-unit-id="tv-plus-device-offer"] .unit-copy-wrapper .subhead.dj {
+	max-width: 345px;
+}
+
+@media only screen and (max-width: 1068px) {
+	.main [data-module-template="promos"] [data-unit-id="tv-plus-device-offer"] .unit-copy-wrapper .subhead.dj {
+		max-width: 310px;
+	}
+}
+
+.main [data-module-template="promos"] [data-unit-id="tv-plus-device-offer"] .unit-copy-wrapper .cta-links {
+	margin-top: 1em;
+}
+
+.main [data-module-template="promos"] [data-unit-id="tv-plus-device-offer"] .unit-copy-wrapper .cta-links a, .main [data-module-template="promos"] [data-unit-id="tv-plus-device-offer"] .unit-copy-wrapper .cta-links .icon-chevronright {
+	color: #fff;
+}
+
+.main [data-module-template="promos"] [data-unit-id="tv-plus-device-offer"] .unit-image-wrapper .unit-image {
+	top: 44px;
+	background-size: cover;
+	background-position: top center;
+	width: calc(100% + 2px);
+	height: 100%;
+}
+
+@media only screen and (max-width: 734px) {
+	.main [data-module-template="promos"] [data-unit-id="tv-plus-device-offer"] .unit-image-wrapper .unit-image {
+		top: 48px;
+	}
+}
+
+.main [data-module-template="promos"] [data-unit-id] .unit-copy-wrapper .cta-links a:not(:only-child):not(:first-child) {
+	margin-left: 28px;
+}
+
+@media only screen and (max-width: 1068px) {
+	.main [data-module-template="promos"] [data-unit-id] .unit-copy-wrapper .cta-links a:not(:only-child):not(:first-child) {
+		margin-left: 27px;
+	}
+}
+@media only screen and (min-width: 735px) and (max-width: 800px) {
+	.main [data-module-template="promos"] [data-unit-id] .unit-copy-wrapper .cta-links a:not(:only-child):not(:first-child) {
+		display: inline-block;
+		margin-top: 3px;
+		margin-left: 0;
+	}
+}
+
+@media only screen and (max-width: 734px) {
+	.main [data-module-template="promos"] [data-unit-id] .unit-copy-wrapper .cta-links a:not(:only-child):not(:first-child) {
+		display: inline-block;
+		margin-top: 3px;
+		margin-left: 0;
+	}
+}
+/* end promos/tv-plus-device-offer */
