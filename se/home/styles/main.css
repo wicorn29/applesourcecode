@@ -1,0 +1,408 @@
+/*------------------------------------*\
+   HERO CSS
+\*------------------------------------*/
+
+
+
+/* HERO 1 IPHONE-14-PRO */
+
+/* SCREENS */
+
+/* LOCAL FIXES */
+
+/* END HERO 1 IPHONE-14-PRO */
+
+
+
+/* HERO 2 IPHONE-14 */
+
+/* SCREENS */
+
+.main [data-module-template="heroes"] .unit-image-wrapper .unit-image.unit-image-iphone-14-hero-iphone14-preorder { background-image:url("../../../euro/home/i/screens_alt/images/heroes/iphone-14/hero_iphone14_preorder__c4g2wjzuugqe_large.jpg"); }
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+  .main [data-module-template="heroes"] .unit-image-wrapper .unit-image.unit-image-iphone-14-hero-iphone14-preorder { background-image:url("../../../euro/home/i/screens_alt/images/heroes/iphone-14/hero_iphone14_preorder__c4g2wjzuugqe_large_2x.jpg"); }
+}
+@media only screen and (max-width: 1068px) {
+  .main [data-module-template="heroes"] .unit-image-wrapper .unit-image.unit-image-iphone-14-hero-iphone14-preorder { background-image:url("../../../euro/home/i/screens_alt/images/heroes/iphone-14/hero_iphone14_preorder__c4g2wjzuugqe_medium.jpg"); }
+}
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+  .main [data-module-template="heroes"] .unit-image-wrapper .unit-image.unit-image-iphone-14-hero-iphone14-preorder { background-image:url("../../../euro/home/i/screens_alt/images/heroes/iphone-14/hero_iphone14_preorder__c4g2wjzuugqe_medium_2x.jpg"); }
+}
+@media only screen and (max-width: 734px) {
+  .main [data-module-template="heroes"] .unit-image-wrapper .unit-image.unit-image-iphone-14-hero-iphone14-preorder { background-image:url("../../../euro/home/i/screens_alt/images/heroes/iphone-14/hero_iphone14_preorder__c4g2wjzuugqe_small.jpg"); }
+}
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 734px) and (min-resolution: 1.5dppx), only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+  .main [data-module-template="heroes"] .unit-image-wrapper .unit-image.unit-image-iphone-14-hero-iphone14-preorder { background-image:url("../../../euro/home/i/screens_alt/images/heroes/iphone-14/hero_iphone14_preorder__c4g2wjzuugqe_small_2x.jpg"); }
+}
+@media only screen and (min-width: 1069px) and (min-height: 776px) {
+  .main [data-module-template="heroes"] .unit-image-wrapper .unit-image.unit-image-iphone-14-hero-iphone14-preorder { background-image:url("../../../euro/home/i/screens_alt/images/heroes/iphone-14/hero_iphone14_preorder__c4g2wjzuugqe_largetall.jpg"); }
+}
+@media only screen and (min-width: 1069px) and (min-height: 776px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-width: 1069px) and (min-height: 776px) and (min-resolution: 1.5dppx), only screen and (min-width: 1069px) and (min-height: 776px) and (min-resolution: 144dpi) {
+  .main [data-module-template="heroes"] .unit-image-wrapper .unit-image.unit-image-iphone-14-hero-iphone14-preorder { background-image:url("../../../euro/home/i/screens_alt/images/heroes/iphone-14/hero_iphone14_preorder__c4g2wjzuugqe_largetall_2x.jpg"); }
+}
+
+/* LOCAL FIXES */
+
+/* END HERO 2 IPHONE-14 */
+
+
+
+
+/* HERO 3 AIRPODS-PRO */
+
+/* SCREENS */
+
+/* LOCAL FIXES */
+
+/* END HERO 3 AIRPODS-PRO */
+
+
+
+
+
+
+
+/*------------------------------------*\
+  END HERO CSS
+\*------------------------------------*/
+
+
+/*------------------------------------*\
+   PROMOS CSS
+\*------------------------------------*/
+
+
+
+
+/* PROMO 1 APPLE-WATCH-ULTRA */
+
+/* SCREENS */
+
+/* LOCAL FIXES */
+
+/* END PROMO 1 APPLE-WATCH-ULTRA */
+
+
+
+
+
+
+/* PROMO 2 APPLE-WATCH-SERIES-8 */
+
+/* SCREENS */
+
+/* LOCAL FIXES */
+
+/* END PROMO 2 APPLE-WATCH-SERIES-8 */
+
+
+
+
+
+/* PROMO 3 APPLE-WATCH-SE */
+
+/* SCREENS */
+
+/* LOCAL FIXES */
+
+/* END PROMO 3 APPLE-WATCH-SE */
+
+
+
+
+
+
+
+
+/* PROMO 4 MACBOOK-AIR */
+
+/* SCREENS */
+
+.logo-image-macbook-air-logo-promo-macbookair { background-image:url("../images/logos/macbook-air/logo_promo_macbookair__hy9ktdqqtv2a_large.png");
+  	width: 280px;
+  	height: 31px;
+	background-size: 280px 31px;
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+  .logo-image-macbook-air-logo-promo-macbookair { background-image:url("../images/logos/macbook-air/logo_promo_macbookair__hy9ktdqqtv2a_large_2x.png");
+	}
+}
+@media only screen and (max-width: 1068px) {
+  .logo-image-macbook-air-logo-promo-macbookair { background-image:url("../images/logos/macbook-air/logo_promo_macbookair__hy9ktdqqtv2a_medium.png");
+  	width: 252px;
+  	height: 29px;
+	background-size: 252px 29px;
+	}
+}
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+  .logo-image-macbook-air-logo-promo-macbookair { background-image:url("../images/logos/macbook-air/logo_promo_macbookair__hy9ktdqqtv2a_medium_2x.png"); }
+}
+@media only screen and (max-width: 734px) {
+  .logo-image-macbook-air-logo-promo-macbookair { background-image:url("../images/logos/macbook-air/logo_promo_macbookair__hy9ktdqqtv2a_small.png"); }
+}
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 734px) and (min-resolution: 1.5dppx), only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+  .logo-image-macbook-air-logo-promo-macbookair { background-image:url("../images/logos/macbook-air/logo_promo_macbookair__hy9ktdqqtv2a_small_2x.png"); }
+}
+
+/* LOCAL FIXES */
+
+/* END PROMO 4 MACBOOK-AIR */
+
+
+
+
+
+
+/* PROMO 5 BACK-TO-SCHOOL-2022 */
+
+/* SCREENS */
+
+/* LOCAL FIXES */
+
+@media only screen and (max-width: 734px) {
+	.main [data-module-template="promos"] [data-unit-id="back-to-school-2022"] .unit-copy-wrapper .subhead {
+		max-width: 310px;
+	}
+}
+
+/* END PROMO 5 BACK-TO-SCHOOL-2022 */
+
+
+
+
+
+
+
+
+/* PROMO 6 TV-PLUS-DEVICE-OFFER */
+
+/* SCREENS */
+
+.logo-image-tv-plus-device-offer-logo {
+    width: 86px;
+    height: 34px;
+    background-size: 86px 34px;
+    background-repeat: no-repeat;
+    background-image: url("../../../euro/home/g/screens_alt/images/logos/tv-plus-device-offer/logo__dcojfwkzna2q_large.png");
+    background-position: center
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .logo-image-tv-plus-device-offer-logo {
+        background-image: url("../../../euro/home/g/screens_alt/images/logos/tv-plus-device-offer/logo__dcojfwkzna2q_large_2x.png")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .logo-image-tv-plus-device-offer-logo {
+        width: 68px;
+        height: 28px;
+        background-size: 68px 28px;
+        background-repeat: no-repeat;
+        background-image: url("../../../euro/home/g/screens_alt/images/logos/tv-plus-device-offer/logo__dcojfwkzna2q_medium.png")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .logo-image-tv-plus-device-offer-logo {
+        background-image: url("../../../euro/home/g/screens_alt/images/logos/tv-plus-device-offer/logo__dcojfwkzna2q_medium_2x.png")
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .logo-image-tv-plus-device-offer-logo {
+        width: 68px;
+        height: 28px;
+        background-size: 68px 28px;
+        background-repeat: no-repeat;
+        background-image: url("../../../euro/home/g/screens_alt/images/logos/tv-plus-device-offer/logo__dcojfwkzna2q_small.png")
+    }
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 734px) and (min-resolution: 1.5dppx), only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+    .logo-image-tv-plus-device-offer-logo {
+        background-image: url("../../../euro/home/g/screens_alt/images/logos/tv-plus-device-offer/logo__dcojfwkzna2q_small_2x.png")
+    }
+}
+
+.main [data-module-template="promos"] .unit-image-wrapper .unit-image.unit-image-tv-plus-device-offer-tile {
+    background-image: url("../../../euro/home/g/screens_alt/images/promos/tv-plus-device-offer/tile__cauwwcyyn9hy_large.jpg")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .main [data-module-template="promos"] .unit-image-wrapper .unit-image.unit-image-tv-plus-device-offer-tile {
+        background-image:url("../../../euro/home/g/screens_alt/images/promos/tv-plus-device-offer/tile__cauwwcyyn9hy_large_2x.jpg")
+    }
+}
+
+@media only screen and (min-width: 1441px) {
+    .main [data-module-template="promos"] .unit-image-wrapper .unit-image.unit-image-tv-plus-device-offer-tile {
+        background-image: url("../../../euro/home/g/screens_alt/images/promos/tv-plus-device-offer/tile__cauwwcyyn9hy_xlarge.jpg")
+    }
+}
+
+@media only screen and (min-width: 1441px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-width: 1441px) and (min-resolution: 1.5dppx), only screen and (min-width: 1441px) and (min-resolution: 144dpi) {
+    .main [data-module-template="promos"] .unit-image-wrapper .unit-image.unit-image-tv-plus-device-offer-tile {
+        background-image:url("../../../euro/home/g/screens_alt/images/promos/tv-plus-device-offer/tile__cauwwcyyn9hy_xlarge_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .main [data-module-template="promos"] .unit-image-wrapper .unit-image.unit-image-tv-plus-device-offer-tile {
+        background-image: url("../../../euro/home/g/screens_alt/images/promos/tv-plus-device-offer/tile__cauwwcyyn9hy_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .main [data-module-template="promos"] .unit-image-wrapper .unit-image.unit-image-tv-plus-device-offer-tile {
+        background-image:url("../../../euro/home/g/screens_alt/images/promos/tv-plus-device-offer/tile__cauwwcyyn9hy_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .main [data-module-template="promos"] .unit-image-wrapper .unit-image.unit-image-tv-plus-device-offer-tile {
+        background-image: url("../../../euro/home/g/screens_alt/images/promos/tv-plus-device-offer/tile__cauwwcyyn9hy_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 734px) and (min-resolution: 1.5dppx), only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+    .main [data-module-template="promos"] .unit-image-wrapper .unit-image.unit-image-tv-plus-device-offer-tile {
+        background-image:url("../../../euro/home/g/screens_alt/images/promos/tv-plus-device-offer/tile__cauwwcyyn9hy_small_2x.jpg")
+    }
+}
+
+/* LOCAL FIXES */
+
+
+.main [data-module-template="promos"] [data-unit-id="tv-plus-device-offer"] .background {
+    background: #000
+}
+
+.main [data-module-template="promos"] [data-unit-id="tv-plus-device-offer"] .unit-copy-wrapper {
+    margin-top: auto;
+    padding-bottom: 45px
+}
+
+@media only screen and (max-width: 1068px) {
+    .main [data-module-template="promos"] [data-unit-id="tv-plus-device-offer"] .unit-copy-wrapper {
+        padding-bottom: 45px
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .main [data-module-template="promos"] [data-unit-id="tv-plus-device-offer"] .unit-copy-wrapper {
+        padding-bottom: 50px;
+    }
+}
+
+.main [data-module-template="promos"] [data-unit-id="tv-plus-device-offer"] .unit-copy-wrapper .subhead {
+    max-width: 300px;
+    margin-top: 11px
+}
+
+@media only screen and (max-width: 1068px) {
+    .main [data-module-template="promos"] [data-unit-id="tv-plus-device-offer"] .unit-copy-wrapper .subhead {
+        max-width: 270px;
+        margin-top: 8px
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .main [data-module-template="promos"] [data-unit-id="tv-plus-device-offer"] .unit-copy-wrapper .subhead {
+        max-width: 270px;
+        margin-top: .2em
+    }
+}
+
+.main [data-module-template="promos"] [data-unit-id="tv-plus-device-offer"] .unit-copy-wrapper .cta-links {
+    margin-top: 1em
+}
+
+.main [data-module-template="promos"] [data-unit-id="tv-plus-device-offer"] .unit-copy-wrapper .cta-links a, .main [data-module-template="promos"] [data-unit-id="tv-plus-device-offer"] .unit-copy-wrapper .cta-links .icon-chevronright {
+    color: #fff
+}
+
+.main [data-module-template="promos"] [data-unit-id="tv-plus-device-offer"] .unit-image-wrapper .unit-image {
+    top: 44px;
+    background-size: cover;
+    background-position: top center;
+    width: calc(100% + 2px);
+    height: 100%
+}
+
+@media only screen and (max-width: 734px) {
+    .main [data-module-template="promos"] [data-unit-id="tv-plus-device-offer"] .unit-image-wrapper .unit-image {
+        top: 48px
+    }
+}
+
+html.ac-ls-visible .main [data-module-template="promos"] [data-unit-id="tv-plus-device-offer"] .unit-image-wrapper .unit-image {
+    margin-top: 70px;
+    height: 624px
+}
+
+@media only screen and (min-width: 1441px) {
+    html.ac-ls-visible .main [data-module-template="promos"] [data-unit-id="tv-plus-device-offer"] .unit-image-wrapper .unit-image {
+        height: 100%
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    html.ac-ls-visible .main [data-module-template="promos"] [data-unit-id="tv-plus-device-offer"] .unit-image-wrapper .unit-image {
+        height: 538px
+    }
+}
+
+@media only screen and (max-width: 833px) {
+    html.ac-ls-visible .main [data-module-template="promos"] [data-unit-id="tv-plus-device-offer"] .unit-image-wrapper .unit-image {
+        margin-top: 135px;
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    html.ac-ls-visible .main [data-module-template="promos"] [data-unit-id="tv-plus-device-offer"] .unit-image-wrapper .unit-image {
+        height: 548px
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    html.ac-ls-visible .main [data-module-template="promos"] [data-unit-id="tv-plus-device-offer"] .unit-image-wrapper .unit-image {
+        margin-top: 135px;
+        top: 48px
+    }
+}
+
+html.ac-ls-visible.ac-gn-segmentbar-visible .main [data-module-template="promos"] [data-unit-id="tv-plus-device-offer"] .unit-image-wrapper .unit-image {
+    top: 44px
+}
+
+html.ac-gn-segmentbar-visible .main [data-module-template="promos"] [data-unit-id="tv-plus-device-offer"] .unit-image-wrapper .unit-image {
+    top: 84px
+}
+
+@media only screen and (max-width: 734px) {
+    html.ac-gn-segmentbar-visible .main [data-module-template="promos"] [data-unit-id="tv-plus-device-offer"] .unit-image-wrapper .unit-image {
+        top: 92px
+    }
+}
+
+@media only screen and (max-width: 767px) {
+    html.ac-ls-visible .main [data-module-template="promos"] [data-unit-id="tv-plus-device-offer"] .unit-image-wrapper .unit-image {
+        margin-top: 135px
+    }
+
+    html.ac-gn-segmentbar-visible .main [data-module-template="promos"] [data-unit-id="tv-plus-device-offer"] .unit-image-wrapper .unit-image {
+        top: 92px
+    }
+}
+
+/* END PROMO 6 TV-PLUS-DEVICE-OFFER */
+
+
+
+
+
+/*------------------------------------*\
+  END PROMOS CSS
+\*------------------------------------*/
