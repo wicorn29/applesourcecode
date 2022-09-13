@@ -1,0 +1,329 @@
+/*------------------------------------*\
+   HERO CSS
+\*------------------------------------*/
+
+.main [data-module-template="heroes"] [data-unit-id] .unit-copy-wrapper {
+	padding-left: 15px;
+	padding-right: 15px;
+}
+
+/* HERO 1 MACBOOK-AIR */
+
+/* SCREENS */
+
+.logo-image-macbook-air-logo-hero-macbookair {
+	width: 378px;
+	height: 41px;
+	background-size: 378px 41px;
+	background-repeat: no-repeat;
+	background-image: url("../images/logos/macbook-air/logo_hero_macbookair__edl9uovq56wm_large.png");
+	background-position: center;
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+	.logo-image-macbook-air-logo-hero-macbookair {
+		background-image: url("../images/logos/macbook-air/logo_hero_macbookair__edl9uovq56wm_large_2x.png");
+	}
+}
+
+@media only screen and (max-width: 1068px) {
+	.logo-image-macbook-air-logo-hero-macbookair {
+		width: 329px;
+		height: 36px;
+		background-size: 329px 36px;
+		background-repeat: no-repeat;
+		background-image: url("../images/logos/macbook-air/logo_hero_macbookair__edl9uovq56wm_medium.png");
+	}
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+	.logo-image-macbook-air-logo-hero-macbookair {
+		background-image: url("../images/logos/macbook-air/logo_hero_macbookair__edl9uovq56wm_medium_2x.png");
+	}
+}
+
+@media only screen and (max-width: 734px) {
+	.logo-image-macbook-air-logo-hero-macbookair {
+		width: 266px;
+		height: 29px;
+		background-size: 266px 29px;
+		background-repeat: no-repeat;
+		background-image: url("../images/logos/macbook-air/logo_hero_macbookair__edl9uovq56wm_small.png");
+	}
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 734px) and (min-resolution: 1.5dppx), only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+	.logo-image-macbook-air-logo-hero-macbookair {
+		background-image: url("../images/logos/macbook-air/logo_hero_macbookair__edl9uovq56wm_small_2x.png");
+	}
+}
+
+@media only screen and (min-width: 1069px) and (min-height: 776px) {
+	.logo-image-macbook-air-logo-hero-macbookair {
+		width: 379px;
+		height: 41px;
+		background-size: 379px 41px;
+		background-repeat: no-repeat;
+		background-image: url("../images/logos/macbook-air/logo_hero_macbookair__edl9uovq56wm_largetall.png");
+	}
+}
+
+@media only screen and (min-width: 1069px) and (min-height: 776px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-width: 1069px) and (min-height: 776px) and (min-resolution: 1.5dppx), only screen and (min-width: 1069px) and (min-height: 776px) and (min-resolution: 144dpi) {
+	.logo-image-macbook-air-logo-hero-macbookair {
+		background-image: url("../images/logos/macbook-air/logo_hero_macbookair__edl9uovq56wm_largetall_2x.png");
+	}
+}
+
+@media only screen and (max-width: 1068px) and (min-width: 735px) and (min-height: 734px) {
+	.logo-image-macbook-air-logo-hero-macbookair {
+		width: 328px;
+		height: 36px;
+		background-size: 328px 36px;
+		background-repeat: no-repeat;
+		background-image: url("../images/logos/macbook-air/logo_hero_macbookair__edl9uovq56wm_mediumtall.png");
+	}
+}
+
+@media only screen and (max-width: 1068px) and (min-width: 735px) and (min-height: 734px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-width: 735px) and (min-height: 734px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-width: 735px) and (min-height: 734px) and (min-resolution: 144dpi) {
+	.logo-image-macbook-air-logo-hero-macbookair {
+		background-image: url("../images/logos/macbook-air/logo_hero_macbookair__edl9uovq56wm_mediumtall_2x.png");
+	}
+}
+
+/* LOCAL FIXES */
+
+@media only screen and (max-width: 734px) {
+	.main [data-module-template="heroes"] .unit-image-wrapper .unit-image.unit-image-macbook-air-hero-macbookair {
+		bottom: -15px;
+	}
+}
+
+/* END HERO 1 MACBOOK-AIR */
+
+/* HERO 2 MACBOOK-PRO-13 */
+
+/* SCREENS */
+
+.logo-image-macbook-pro-13-logo-hero-mbp13 {
+	width: 387px;
+	height: 68px;
+	background-size: 387px 68px;
+	background-repeat: no-repeat;
+	background-image: url("../images/logos/macbook-pro-13/logo_hero_mbp13__gdqp6kikbxe2_large.png");
+	background-position: center;
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+	.logo-image-macbook-pro-13-logo-hero-mbp13 {
+		background-image: url("../images/logos/macbook-pro-13/logo_hero_mbp13__gdqp6kikbxe2_large_2x.png");
+	}
+}
+
+@media only screen and (max-width: 1068px) {
+	.logo-image-macbook-pro-13-logo-hero-mbp13 {
+		width: 333px;
+		height: 59px;
+		background-size: 333px 59px;
+		background-repeat: no-repeat;
+		background-image: url("../images/logos/macbook-pro-13/logo_hero_mbp13__gdqp6kikbxe2_medium.png");
+	}
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+	.logo-image-macbook-pro-13-logo-hero-mbp13 {
+		background-image: url("../images/logos/macbook-pro-13/logo_hero_mbp13__gdqp6kikbxe2_medium_2x.png");
+	}
+}
+
+@media only screen and (max-width: 734px) {
+	.logo-image-macbook-pro-13-logo-hero-mbp13 {
+		width: 273px;
+		height: 49px;
+		background-size: 273px 49px;
+		background-repeat: no-repeat;
+		background-image: url("../images/logos/macbook-pro-13/logo_hero_mbp13__gdqp6kikbxe2_small.png");
+	}
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 734px) and (min-resolution: 1.5dppx), only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+	.logo-image-macbook-pro-13-logo-hero-mbp13 {
+		background-image: url("../images/logos/macbook-pro-13/logo_hero_mbp13__gdqp6kikbxe2_small_2x.png");
+	}
+}
+
+@media only screen and (min-width: 1069px) and (min-height: 776px) {
+	.logo-image-macbook-pro-13-logo-hero-mbp13 {
+		width: 387px;
+		height: 68px;
+		background-size: 387px 68px;
+		background-repeat: no-repeat;
+		background-image: url("../images/logos/macbook-pro-13/logo_hero_mbp13__gdqp6kikbxe2_largetall.png");
+	}
+}
+
+@media only screen and (min-width: 1069px) and (min-height: 776px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-width: 1069px) and (min-height: 776px) and (min-resolution: 1.5dppx), only screen and (min-width: 1069px) and (min-height: 776px) and (min-resolution: 144dpi) {
+	.logo-image-macbook-pro-13-logo-hero-mbp13 {
+		background-image: url("../images/logos/macbook-pro-13/logo_hero_mbp13__gdqp6kikbxe2_largetall_2x.png");
+	}
+}
+
+@media only screen and (max-width: 1068px) and (min-width: 735px) and (min-height: 734px) {
+	.logo-image-macbook-pro-13-logo-hero-mbp13 {
+		width: 333px;
+		height: 59px;
+		background-size: 333px 59px;
+		background-repeat: no-repeat;
+		background-image: url("../images/logos/macbook-pro-13/logo_hero_mbp13__gdqp6kikbxe2_mediumtall.png");
+	}
+}
+
+@media only screen and (max-width: 1068px) and (min-width: 735px) and (min-height: 734px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-width: 735px) and (min-height: 734px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-width: 735px) and (min-height: 734px) and (min-resolution: 144dpi) {
+	.logo-image-macbook-pro-13-logo-hero-mbp13 {
+		background-image: url("../images/logos/macbook-pro-13/logo_hero_mbp13__gdqp6kikbxe2_mediumtall_2x.png");
+	}
+}
+
+/* LOCAL FIXES */
+
+/* END HERO 2 MACBOOK-PRO-13 */
+
+/* HERO 3 IPHONE-13 */
+
+/* SCREENS */
+
+/* LOCAL FIXES */
+
+/* END HERO 3 IPHONE-13 */
+
+/*------------------------------------*\
+  END HERO CSS
+\*------------------------------------*/
+
+/*------------------------------------*\
+   PROMO CSS
+\*------------------------------------*/
+
+/* PROMO 1 IPAD-AIR */
+
+/* SCREENS */
+
+/* LOCAL FIXES */
+
+@media only screen and (max-width: 1068px) {
+	.main [data-module-template="promos"] [data-unit-id="ipad-air"] .unit-image {
+		bottom: -10px;
+	}
+}
+
+/* END PROMO 1 IPAD-AIR */
+
+/* PROMO 2 IPHONE-13-PRO */
+
+/* SCREENS */
+
+/* LOCAL FIXES */
+
+/* END PROMO 2 IPHONE-13-PRO */
+
+/* PROMO 3 APPLE-WATCH-SERIES-7 */
+
+/* SCREENS */
+
+/* LOCAL FIXES */
+
+@media only screen and (max-width: 1068px) {
+	.main [data-module-template="promos"] [data-unit-id="watch-series-7"] .unit-image {
+		bottom: -12px;
+	}
+}
+
+/* END PROMO 3 APPLE-WATCH-SERIES-7 */
+
+/* PROMO 4 IPHONE-SE */
+
+/* SCREENS */
+
+/* LOCAL FIXES */
+
+@media only screen and (max-width: 1068px) {
+	.main [data-module-template="promos"] [data-unit-id="iphone-se"] .unit-image {
+		bottom: -15px;
+	}
+}
+
+@media only screen and (max-width: 734px) {
+	.main [data-module-template="promos"] [data-unit-id="iphone-se"] .unit-image {
+		bottom: 0px;
+	}
+}
+
+/* END PROMO 4 IPHONE-SE */
+
+/* PROMO 5 AIRPODS */
+
+/* SCREENS */
+
+/* LOCAL FIXES */
+
+/* END PROMO 5 AIRPODS */
+
+/* PROMO 6 APPLE-TV-4K */
+
+/* SCREENS */
+
+/* LOCAL FIXES */
+
+.main [data-module-template="promos"] [data-unit-id="apple-tv-4k"] .unit-copy-wrapper .headline.logo-image {
+	margin-top: 56px;
+}
+
+@media only screen and (max-width: 1068px) {
+	.main [data-module-template="promos"] [data-unit-id="apple-tv-4k"] .unit-copy-wrapper .headline.logo-image {
+		margin-top: 41px;
+	}
+}
+
+@media only screen and (max-width: 734px) {
+	.main [data-module-template="promos"] [data-unit-id="apple-tv-4k"] .unit-copy-wrapper .headline.logo-image {
+		margin-top: 39px;
+	}
+}
+
+/* END PROMO 6 APPLE-TV-4K */
+
+/*------------------------------------*\
+  END PROMO CSS
+\*------------------------------------*/
+.main [data-module-template="heroes"] [data-unit-id="macbook-air"] {
+	--content-height: 580px;
+}
+
+@media only screen and (max-width: 1068px) {
+	.main [data-module-template="heroes"] [data-unit-id="macbook-air"] {
+		--content-height: 589px;
+	}
+}
+
+@media only screen and (max-width: 734px) {
+	.main [data-module-template="heroes"] [data-unit-id="macbook-air"] {
+		--content-height: 540px;
+	}
+}
+
+@media only screen and (min-width: 1069px) and (min-height: 776px) {
+	.main [data-module-template="heroes"] [data-unit-id="macbook-air"] {
+		--content-height: 650px;
+	}
+}
+
+@media only screen and (min-width: 1069px) and (min-height: 776px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-width: 1069px) and (min-height: 776px) and (min-resolution: 1.5dppx), only screen and (min-width: 1069px) and (min-height: 776px) and (min-resolution: 144dpi) {
+	.main [data-module-template="heroes"] [data-unit-id="macbook-air"] {
+		--content-height: 722px;
+	}
+}
+
+@media only screen and (max-width: 1068px) and (min-width: 735px) and (min-height: 734px) {
+	.main [data-module-template="heroes"] [data-unit-id="macbook-air"] {
+		--content-height: 670px;
+	}
+}
