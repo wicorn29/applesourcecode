@@ -1,0 +1,141 @@
+/*
+Generic Styles
+ */
+body:lang(ja) {
+	letter-spacing: -0.021em;
+}
+
+.more:after,
+.icon-chevronright:after,
+.more:after,
+.icon-external:after {
+	top: -0.075em;
+}
+.icon-playcircle::after {
+	top: -0.02em;
+}
+
+.jp-headline-adjust {
+	margin-right: -0.45em;
+	display: inline-flex;
+}
+.jp-headline-adjust.large-hide {
+	display: none;
+}
+@media only screen and (max-width: 1068px) {
+	.jp-headline-adjust.medium-hide {
+		display: none;
+	}
+	.jp-headline-adjust.medium-show,
+	.jp-headline-adjust.medium-show-inline {
+		display: inline-flex;
+	}
+}
+@media only screen and (max-width: 734px) {
+	.jp-headline-adjust.small-hide {
+		display: none;
+	}
+	.jp-headline-adjust.small-show,
+	.jp-headline-adjust.small-show-inline {
+		display: inline-flex;
+	}
+}
+
+@media only screen and (max-width: 374px) {
+	.xsmall-hide {
+		display: none;
+	}
+	.xsmall-show {
+		display: block;
+	}
+	.xsmall-show-inline {
+		display: inline;
+	}
+}
+
+@media only screen and (max-width: 320px) {
+	.xxsmall-hide {
+		display: none;
+	}
+	.xxsmall-show {
+		display: block;
+	}
+	.xxsmall-show-inline {
+		display: inline;
+	}
+}
+
+.main [data-module-template="promos"] .cta-links a sup {
+	display: inline-block;
+}
+
+.ie [data-module-template] [data-unit-id] .unit-wrapper a:not(.unit-link) {
+	position: relative;
+}
+.ie [data-module-template] [data-unit-id] .unit-wrapper button {
+	position: relative;
+	z-index: 4;
+}
+
+.small-caps {
+	font-variant-caps: all-small-caps;
+}
+
+.violator {
+	padding-top: 5px;
+	padding-bottom: 3px;
+}
+@media only screen and (max-width: 735px) {
+	.violator {
+		padding-top: 3px;
+		padding-bottom: 1px;
+	}
+}
+
+br.large {
+	display: block;
+}
+
+@media only screen and (max-width: 1068px) {
+	br.large {
+		display: none;
+	}
+}
+
+@media only screen and (max-width: 735px) {
+	br.large {
+		display: none;
+	}
+}
+
+br.medium {
+	display: none;
+}
+
+@media only screen and (max-width: 1068px) {
+	br.medium {
+		display: block;
+	}
+}
+
+@media only screen and (max-width: 735px) {
+	br.medium {
+		display: none;
+	}
+}
+
+br.small {
+	display: none;
+}
+
+@media only screen and (max-width: 1068px) {
+	br.small {
+		display: none;
+	}
+}
+
+@media only screen and (max-width: 735px) {
+	br.small {
+		display: block;
+	}
+}

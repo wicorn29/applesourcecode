@@ -1,0 +1,53 @@
+.jp-headline-adjust {
+	margin-right: -0.45em;
+	display: inline-flex;
+}
+.jp-headline-adjust.large-hide {
+	display: none;
+}
+@media only screen and (max-width: 1068px) {
+	.jp-headline-adjust.medium-hide {
+		display: none;
+	}
+	.jp-headline-adjust.medium-show,
+	.jp-headline-adjust.medium-show-inline,
+	.jp-headline-adjust.medium-show-inlineflex {
+		display: inline-flex;
+	}
+}
+@media only screen and (max-width: 734px) {
+	.jp-headline-adjust.small-hide {
+		display: none;
+	}
+	.jp-headline-adjust.small-show,
+	.jp-headline-adjust.small-show-inline,
+	.jp-headline-adjust.small-show-inlineflex {
+		display: inline-flex;
+	}
+}
+.xsmall {
+	display: none;
+}
+@media only screen and (max-width: 320px) {
+	.xsmall {
+		display: inline;
+	}
+	.xsmall-hide {
+		display: none;
+	}
+	.xsmall-show {
+		display: block;
+	}
+	.xsmall-show-inline {
+		display: inline;
+	}
+	.xsmall-show-inlineblock {
+		display: inline-block;
+	}
+}
+a wbr + .nowrap {
+	display: inline;
+}
+.nowrap .more::after {
+	display: inline-block;
+}

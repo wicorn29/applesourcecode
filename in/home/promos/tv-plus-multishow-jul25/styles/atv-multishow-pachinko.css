@@ -1,0 +1,635 @@
+  
+
+/* start promos/tv-plus-multishow-jul25 */
+.main [data-module-template="promos"] [data-unit-id="tv-plus-multishow-jul25"] .button {
+    cursor: pointer;
+    display: inline-block;
+    text-align: center;
+    white-space: nowrap;
+    font-size: 17px;
+    line-height: 1.17648;
+    font-weight: 400;
+    letter-spacing: -0.022em;
+    font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", "Helvetica",
+        "Arial", sans-serif;
+    min-width: 28px;
+    padding-left: 16px;
+    padding-right: 16px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    border-radius: 18px;
+    background: #0071e3;
+    color: #fff;
+}
+
+.main [data-module-template="promos"] [data-unit-id="tv-plus-multishow-jul25"] .button:hover {
+    text-decoration: none;
+}
+
+.main [data-module-template="promos"] [data-unit-id="tv-plus-multishow-jul25"] .button:focus {
+    -webkit-box-shadow: 0 0 0 4px rgba(0, 125, 250, 0.6);
+    box-shadow: 0 0 0 4px rgba(0, 125, 250, 0.6);
+    outline: none;
+}
+
+.main [data-module-template="promos"] [data-unit-id="tv-plus-multishow-jul25"] .button:focus[data-focus-method="mouse"]:not(input):not(textarea):not(select),
+.main [data-module-template="promos"] [data-unit-id="tv-plus-multishow-jul25"] .button:focus[data-focus-method="touch"]:not(input):not(textarea):not(select) {
+    -webkit-box-shadow: none;
+    box-shadow: none;
+}
+
+.main [data-module-template="promos"] [data-unit-id="tv-plus-multishow-jul25"] .button:active {
+    outline: none;
+}
+
+.main [data-module-template="promos"] [data-unit-id="tv-plus-multishow-jul25"] .button:disabled,
+.main [data-module-template="promos"] [data-unit-id="tv-plus-multishow-jul25"] .button.disabled {
+    cursor: default;
+}
+
+.main [data-module-template="promos"] [data-unit-id="tv-plus-multishow-jul25"] .button:lang(ar) {
+    letter-spacing: 0em;
+    font-family: "SF Pro AR", "SF Pro Gulf", "SF Pro Text", "SF Pro Icons",
+        "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+}
+
+.main [data-module-template="promos"] [data-unit-id="tv-plus-multishow-jul25"] .button:lang(ja) {
+    letter-spacing: 0em;
+    font-family: "SF Pro JP", "SF Pro Text", "SF Pro Icons",
+        "Hiragino Kaku Gothic Pro", "ヒラギノ角ゴ Pro W3", "メイリオ", "Meiryo",
+        "ＭＳ Ｐゴシック", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+}
+
+.main [data-module-template="promos"] [data-unit-id="tv-plus-multishow-jul25"] .button:lang(ko) {
+    letter-spacing: 0em;
+    font-family: "SF Pro KR", "SF Pro Text", "SF Pro Icons", "Apple Gothic",
+        "HY Gulim", "MalgunGothic", "HY Dotum", "Lexi Gulim", "Helvetica Neue",
+        "Helvetica", "Arial", sans-serif;
+}
+
+.main [data-module-template="promos"] [data-unit-id="tv-plus-multishow-jul25"] .button:lang(zh) {
+    letter-spacing: 0em;
+}
+
+.main [data-module-template="promos"] [data-unit-id="tv-plus-multishow-jul25"] .button:lang(th) {
+    font-family: "SF Pro TH", "SF Pro Text", "SF Pro Icons", "Helvetica Neue",
+        "Helvetica", "Arial", sans-serif;
+}
+
+.main [data-module-template="promos"] [data-unit-id="tv-plus-multishow-jul25"] .button:lang(zh-CN) {
+    font-family: "SF Pro SC", "SF Pro Text", "SF Pro Icons", "PingFang SC",
+        "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+}
+
+.main [data-module-template="promos"] [data-unit-id="tv-plus-multishow-jul25"] .button:lang(zh-HK) {
+    font-family: "SF Pro HK", "SF Pro Text", "SF Pro Icons", "PingFang HK",
+        "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+}
+
+.main [data-module-template="promos"] [data-unit-id="tv-plus-multishow-jul25"] .button:lang(zh-MO) {
+    font-family: "SF Pro HK", "SF Pro TC", "SF Pro Text", "SF Pro Icons",
+        "PingFang HK", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+}
+
+.main [data-module-template="promos"] [data-unit-id="tv-plus-multishow-jul25"] .button:lang(zh-TW) {
+    font-family: "SF Pro TC", "SF Pro Text", "SF Pro Icons", "PingFang TC",
+        "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+}
+
+.main [data-module-template="promos"] [data-unit-id="tv-plus-multishow-jul25"] .button:hover {
+    background: #0077ed;
+}
+
+.main [data-module-template="promos"] [data-unit-id="tv-plus-multishow-jul25"] .button:active {
+    background: #006edb;
+}
+
+.main [data-module-template="promos"] [data-unit-id="tv-plus-multishow-jul25"] .button:disabled,
+.main [data-module-template="promos"] [data-unit-id="tv-plus-multishow-jul25"] .button.disabled {
+    background: #0071e3;
+    color: #fff;
+    opacity: 0.32;
+}
+
+.main [data-module-template="promos"] [data-unit-id="tv-plus-multishow-jul25"] .button-block {
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    display: block;
+    width: 100%;
+    border-radius: 8px;
+}
+
+.main [data-module-template="promos"] [data-unit-id="tv-plus-multishow-jul25"] .button-neutral {
+    background: #1d1d1f;
+    color: #fff;
+}
+
+.main [data-module-template="promos"] [data-unit-id="tv-plus-multishow-jul25"] .button-neutral:hover {
+    background: #272729;
+}
+
+.main [data-module-template="promos"] [data-unit-id="tv-plus-multishow-jul25"] .button-neutral:active {
+    background: #18181a;
+}
+
+.main [data-module-template="promos"] [data-unit-id="tv-plus-multishow-jul25"] .button-neutral:disabled,
+.main [data-module-template="promos"] [data-unit-id="tv-plus-multishow-jul25"] .button-neutral.disabled {
+    background: #1d1d1f;
+    color: #fff;
+    opacity: 0.32;
+}
+
+.main [data-module-template="promos"] [data-unit-id="tv-plus-multishow-jul25"] .button-secondary {
+    background: #e8e8ed;
+    color: #000;
+}
+
+.main [data-module-template="promos"] [data-unit-id="tv-plus-multishow-jul25"] .button-secondary:hover {
+    background: #ebebf0;
+}
+
+.main [data-module-template="promos"] [data-unit-id="tv-plus-multishow-jul25"] .button-secondary:active {
+    background: #e6e6eb;
+}
+
+.main [data-module-template="promos"] [data-unit-id="tv-plus-multishow-jul25"] .button-secondary:disabled,
+.main [data-module-template="promos"] [data-unit-id="tv-plus-multishow-jul25"] .button-secondary.disabled {
+    background: #e8e8ed;
+    color: #000;
+    opacity: 0.56;
+}
+
+.main [data-module-template="promos"] [data-unit-id="tv-plus-multishow-jul25"] .button-secondary-alpha {
+    background: rgba(0, 0, 0, 0.08);
+    color: #000;
+}
+
+.main [data-module-template="promos"] [data-unit-id="tv-plus-multishow-jul25"] .button-secondary-alpha:hover {
+    background: rgba(0, 0, 0, 0.07);
+}
+
+.main [data-module-template="promos"] [data-unit-id="tv-plus-multishow-jul25"] .button-secondary-alpha:active {
+    background: rgba(0, 0, 0, 0.09);
+}
+
+.main [data-module-template="promos"] [data-unit-id="tv-plus-multishow-jul25"] .button-secondary-alpha:disabled,
+.main [data-module-template="promos"] [data-unit-id="tv-plus-multishow-jul25"] .button-secondary-alpha.disabled {
+    background: rgba(0, 0, 0, 0.08);
+    color: #000;
+    opacity: 0.56;
+}
+
+.main [data-module-template="promos"] [data-unit-id="tv-plus-multishow-jul25"] .button-super {
+    font-size: 17px;
+    line-height: 1.17648;
+    font-weight: 400;
+    letter-spacing: -0.022em;
+    font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", "Helvetica",
+        "Arial", sans-serif;
+    min-width: 28px;
+    padding-left: 31px;
+    padding-right: 31px;
+    padding-top: 18px;
+    padding-bottom: 18px;
+    border-radius: 28px;
+}
+
+.main [data-module-template="promos"] [data-unit-id="tv-plus-multishow-jul25"] .button-super:lang(ar) {
+    letter-spacing: 0em;
+    font-family: "SF Pro AR", "SF Pro Gulf", "SF Pro Text", "SF Pro Icons",
+        "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+}
+
+.main [data-module-template="promos"] [data-unit-id="tv-plus-multishow-jul25"] .button-super:lang(ja) {
+    letter-spacing: 0em;
+    font-family: "SF Pro JP", "SF Pro Text", "SF Pro Icons",
+        "Hiragino Kaku Gothic Pro", "ヒラギノ角ゴ Pro W3", "メイリオ", "Meiryo",
+        "ＭＳ Ｐゴシック", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+}
+
+.main [data-module-template="promos"] [data-unit-id="tv-plus-multishow-jul25"] .button-super:lang(ko) {
+    letter-spacing: 0em;
+    font-family: "SF Pro KR", "SF Pro Text", "SF Pro Icons", "Apple Gothic",
+        "HY Gulim", "MalgunGothic", "HY Dotum", "Lexi Gulim", "Helvetica Neue",
+        "Helvetica", "Arial", sans-serif;
+}
+
+.main [data-module-template="promos"] [data-unit-id="tv-plus-multishow-jul25"] .button-super:lang(zh) {
+    letter-spacing: 0em;
+}
+
+.main [data-module-template="promos"] [data-unit-id="tv-plus-multishow-jul25"] .button-super:lang(th) {
+    font-family: "SF Pro TH", "SF Pro Text", "SF Pro Icons", "Helvetica Neue",
+        "Helvetica", "Arial", sans-serif;
+}
+
+.main [data-module-template="promos"] [data-unit-id="tv-plus-multishow-jul25"] .button-super:lang(zh-CN) {
+    font-family: "SF Pro SC", "SF Pro Text", "SF Pro Icons", "PingFang SC",
+        "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+}
+
+.main [data-module-template="promos"] [data-unit-id="tv-plus-multishow-jul25"] .button-super:lang(zh-HK) {
+    font-family: "SF Pro HK", "SF Pro Text", "SF Pro Icons", "PingFang HK",
+        "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+}
+
+.main [data-module-template="promos"] [data-unit-id="tv-plus-multishow-jul25"] .button-super:lang(zh-MO) {
+    font-family: "SF Pro HK", "SF Pro TC", "SF Pro Text", "SF Pro Icons",
+        "PingFang HK", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+}
+
+.main [data-module-template="promos"] [data-unit-id="tv-plus-multishow-jul25"] .button-super:lang(zh-TW) {
+    font-family: "SF Pro TC", "SF Pro Text", "SF Pro Icons", "PingFang TC",
+        "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+}
+
+.main [data-module-template="promos"] [data-unit-id="tv-plus-multishow-jul25"] .button-super.button-block {
+    border-radius: 12px;
+}
+
+.main [data-module-template="promos"] [data-unit-id="tv-plus-multishow-jul25"] .button-elevated {
+    font-size: 17px;
+    line-height: 1.17648;
+    font-weight: 400;
+    letter-spacing: -0.022em;
+    font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", "Helvetica",
+        "Arial", sans-serif;
+    min-width: 26px;
+    padding-left: 22px;
+    padding-right: 22px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    border-radius: 22px;
+}
+
+.main [data-module-template="promos"] [data-unit-id="tv-plus-multishow-jul25"] .button-elevated:lang(ar) {
+    letter-spacing: 0em;
+    font-family: "SF Pro AR", "SF Pro Gulf", "SF Pro Text", "SF Pro Icons",
+        "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+}
+
+.main [data-module-template="promos"] [data-unit-id="tv-plus-multishow-jul25"] .button-elevated:lang(ja) {
+    letter-spacing: 0em;
+    font-family: "SF Pro JP", "SF Pro Text", "SF Pro Icons",
+        "Hiragino Kaku Gothic Pro", "ヒラギノ角ゴ Pro W3", "メイリオ", "Meiryo",
+        "ＭＳ Ｐゴシック", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+}
+
+.main [data-module-template="promos"] [data-unit-id="tv-plus-multishow-jul25"] .button-elevated:lang(ko) {
+    letter-spacing: 0em;
+    font-family: "SF Pro KR", "SF Pro Text", "SF Pro Icons", "Apple Gothic",
+        "HY Gulim", "MalgunGothic", "HY Dotum", "Lexi Gulim", "Helvetica Neue",
+        "Helvetica", "Arial", sans-serif;
+}
+
+.main [data-module-template="promos"] [data-unit-id="tv-plus-multishow-jul25"] .button-elevated:lang(zh) {
+    letter-spacing: 0em;
+}
+
+.main [data-module-template="promos"] [data-unit-id="tv-plus-multishow-jul25"] .button-elevated:lang(th) {
+    font-family: "SF Pro TH", "SF Pro Text", "SF Pro Icons", "Helvetica Neue",
+        "Helvetica", "Arial", sans-serif;
+}
+
+.main [data-module-template="promos"] [data-unit-id="tv-plus-multishow-jul25"] .button-elevated:lang(zh-CN) {
+    font-family: "SF Pro SC", "SF Pro Text", "SF Pro Icons", "PingFang SC",
+        "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+}
+
+.main [data-module-template="promos"] [data-unit-id="tv-plus-multishow-jul25"] .button-elevated:lang(zh-HK) {
+    font-family: "SF Pro HK", "SF Pro Text", "SF Pro Icons", "PingFang HK",
+        "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+}
+
+.main [data-module-template="promos"] [data-unit-id="tv-plus-multishow-jul25"] .button-elevated:lang(zh-MO) {
+    font-family: "SF Pro HK", "SF Pro TC", "SF Pro Text", "SF Pro Icons",
+        "PingFang HK", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+}
+
+.main [data-module-template="promos"] [data-unit-id="tv-plus-multishow-jul25"] .button-elevated:lang(zh-TW) {
+    font-family: "SF Pro TC", "SF Pro Text", "SF Pro Icons", "PingFang TC",
+        "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+}
+
+.main [data-module-template="promos"] [data-unit-id="tv-plus-multishow-jul25"] .button-elevated.button-block {
+    border-radius: 10px;
+}
+
+.main [data-module-template="promos"] [data-unit-id="tv-plus-multishow-jul25"] .button-reduced {
+    font-size: 12px;
+    line-height: 1.33337;
+    font-weight: 400;
+    letter-spacing: -0.01em;
+    font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", "Helvetica",
+        "Arial", sans-serif;
+    min-width: 23px;
+    padding-left: 11px;
+    padding-right: 11px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    border-radius: 12px;
+}
+
+.main [data-module-template="promos"] [data-unit-id="tv-plus-multishow-jul25"] .button-reduced:lang(ar) {
+    letter-spacing: 0em;
+    font-family: "SF Pro AR", "SF Pro Gulf", "SF Pro Text", "SF Pro Icons",
+        "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+}
+
+.main [data-module-template="promos"] [data-unit-id="tv-plus-multishow-jul25"] .button-reduced:lang(ja) {
+    letter-spacing: 0em;
+    font-family: "SF Pro JP", "SF Pro Text", "SF Pro Icons",
+        "Hiragino Kaku Gothic Pro", "ヒラギノ角ゴ Pro W3", "メイリオ", "Meiryo",
+        "ＭＳ Ｐゴシック", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+}
+
+.main [data-module-template="promos"] [data-unit-id="tv-plus-multishow-jul25"] .button-reduced:lang(ko) {
+    letter-spacing: 0em;
+    font-family: "SF Pro KR", "SF Pro Text", "SF Pro Icons", "Apple Gothic",
+        "HY Gulim", "MalgunGothic", "HY Dotum", "Lexi Gulim", "Helvetica Neue",
+        "Helvetica", "Arial", sans-serif;
+}
+
+.main [data-module-template="promos"] [data-unit-id="tv-plus-multishow-jul25"] .button-reduced:lang(zh) {
+    letter-spacing: 0em;
+}
+
+.main [data-module-template="promos"] [data-unit-id="tv-plus-multishow-jul25"] .button-reduced:lang(th) {
+    font-family: "SF Pro TH", "SF Pro Text", "SF Pro Icons", "Helvetica Neue",
+        "Helvetica", "Arial", sans-serif;
+}
+
+.main [data-module-template="promos"] [data-unit-id="tv-plus-multishow-jul25"] .button-reduced:lang(zh-CN) {
+    font-family: "SF Pro SC", "SF Pro Text", "SF Pro Icons", "PingFang SC",
+        "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+}
+
+.main [data-module-template="promos"] [data-unit-id="tv-plus-multishow-jul25"] .button-reduced:lang(zh-HK) {
+    font-family: "SF Pro HK", "SF Pro Text", "SF Pro Icons", "PingFang HK",
+        "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+}
+
+.main [data-module-template="promos"] [data-unit-id="tv-plus-multishow-jul25"] .button-reduced:lang(zh-MO) {
+    font-family: "SF Pro HK", "SF Pro TC", "SF Pro Text", "SF Pro Icons",
+        "PingFang HK", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+}
+
+.main [data-module-template="promos"] [data-unit-id="tv-plus-multishow-jul25"] .button-reduced:lang(zh-TW) {
+    font-family: "SF Pro TC", "SF Pro Text", "SF Pro Icons", "PingFang TC",
+        "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+}
+
+.main [data-module-template="promos"] [data-unit-id="tv-plus-multishow-jul25"] .button-reduced.button-block {
+    border-radius: 5px;
+}
+
+.main [data-module-template="promos"] [data-unit-id="tv-plus-multishow-jul25"] .background {
+    background: #000;
+}
+
+.main [data-module-template="promos"] [data-unit-id="tv-plus-multishow-jul25"] .unit-copy-wrapper {
+    margin-top: auto;
+    padding-bottom: 56px;
+}
+
+@media only screen and (max-width: 1068px) {
+    .main [data-module-template="promos"] [data-unit-id="tv-plus-multishow-jul25"] .unit-copy-wrapper {
+        padding-bottom: 43px;
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .main [data-module-template="promos"] [data-unit-id="tv-plus-multishow-jul25"] .unit-copy-wrapper {
+        padding-bottom: 37px;
+    }
+}
+
+.main [data-module-template="promos"] [data-unit-id="tv-plus-multishow-jul25"] .unit-copy-wrapper .subhead {
+    max-width: 300px;
+    margin-top: 11px;
+}
+
+@media only screen and (max-width: 1068px) {
+    .main [data-module-template="promos"] [data-unit-id="tv-plus-multishow-jul25"] .unit-copy-wrapper .subhead {
+        max-width: 270px;
+        margin-top: 8px;
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .main [data-module-template="promos"] [data-unit-id="tv-plus-multishow-jul25"] .unit-copy-wrapper .subhead {
+        max-width: 270px;
+        margin-top: 0.2em;
+    }
+}
+
+.main [data-module-template="promos"] [data-unit-id="tv-plus-multishow-jul25"] .unit-copy-wrapper .subhead.dj {
+    max-width: 345px;
+}
+
+@media only screen and (max-width: 1068px) {
+    .main [data-module-template="promos"] [data-unit-id="tv-plus-multishow-jul25"] .unit-copy-wrapper .subhead.dj {
+        max-width: 310px;
+    }
+}
+
+.main [data-module-template="promos"] [data-unit-id="tv-plus-multishow-jul25"] .unit-copy-wrapper .cta-links {
+    margin-top: 1em;
+}
+
+.main [data-module-template="promos"] [data-unit-id="tv-plus-multishow-jul25"] .unit-copy-wrapper .cta-links a,
+.main [data-module-template="promos"] [data-unit-id="tv-plus-multishow-jul25"] .unit-copy-wrapper .cta-links .icon-chevronright {
+    color: #fff;
+}
+
+.main [data-module-template="promos"] [data-unit-id="tv-plus-multishow-jul25"] .unit-image-wrapper .unit-image {
+    top: 44px;
+    background-size: cover;
+    background-position: top center;
+    width: calc(100% + 2px);
+    height: 100%;
+}
+
+@media only screen and (max-width: 734px) {
+    .main [data-module-template="promos"] [data-unit-id="tv-plus-multishow-jul25"] .unit-image-wrapper .unit-image {
+        top: 48px;
+    }
+}
+
+html.ac-ls-visible .main [data-module-template="promos"] [data-unit-id="tv-plus-multishow-jul25"] .unit-image-wrapper .unit-image {
+    margin-top: 70px;
+    height: 624px;
+}
+
+@media only screen and (min-width: 1441px) {
+    html.ac-ls-visible .main [data-module-template="promos"] [data-unit-id="tv-plus-multishow-jul25"] .unit-image-wrapper .unit-image {
+        height: 100%;
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    html.ac-ls-visible .main [data-module-template="promos"] [data-unit-id="tv-plus-multishow-jul25"] .unit-image-wrapper .unit-image {
+        height: 538px;
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    html.ac-ls-visible .main [data-module-template="promos"] [data-unit-id="tv-plus-multishow-jul25"] .unit-image-wrapper .unit-image {
+        height: 548px;
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    html.ac-ls-visible .main [data-module-template="promos"] [data-unit-id="tv-plus-multishow-jul25"] .unit-image-wrapper .unit-image {
+        margin-top: 135px;
+        top: 48px;
+    }
+}
+
+html.ac-ls-visible.ac-gn-segmentbar-visible .main [data-module-template="promos"] [data-unit-id="tv-plus-multishow-jul25"] .unit-image-wrapper .unit-image {
+    top: 44px;
+}
+
+html.ac-gn-segmentbar-visible .main [data-module-template="promos"] [data-unit-id="tv-plus-multishow-jul25"] .unit-image-wrapper .unit-image {
+    top: 84px;
+}
+
+@media only screen and (max-width: 734px) {
+    html.ac-gn-segmentbar-visible .main [data-module-template="promos"] [data-unit-id="tv-plus-multishow-jul25"] .unit-image-wrapper .unit-image {
+        top: 92px;
+    }
+}
+
+@media only screen and (max-width: 767px) {
+    html.ac-ls-visible .main [data-module-template="promos"] [data-unit-id="tv-plus-multishow-jul25"] .unit-image-wrapper .unit-image {
+        margin-top: 135px;
+    }
+
+    html.ac-gn-segmentbar-visible .main [data-module-template="promos"] [data-unit-id="tv-plus-multishow-jul25"] .unit-image-wrapper .unit-image {
+        top: 92px;
+    }
+}
+
+.main [data-module-template="promos"] .unit-image-wrapper .unit-image.unit-image-tv-plus-multishow-jul25-tile-dj {
+    background-image: url("../images/atv_multishow_pachinko_promo__cauwwcyyn9hy_large.jpg");
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (min-resolution: 1.5dppx),
+(-webkit-min-device-pixel-ratio: 1.5),
+(min-resolution: 144dpi) {
+    .main [data-module-template="promos"] .unit-image-wrapper .unit-image.unit-image-tv-plus-multishow-jul25-tile-dj {
+        background-image: url("../images/atv_multishow_pachinko_promo__cauwwcyyn9hy_large_2x.jpg");
+    }
+}
+
+@media only screen and (min-width: 1441px) {
+    .main [data-module-template="promos"] .unit-image-wrapper .unit-image.unit-image-tv-plus-multishow-jul25-tile-dj {
+        background-image: url("../images/atv_multishow_pachinko_promo__cauwwcyyn9hy_xlarge.jpg");
+    }
+}
+
+@media only screen and (min-width: 1441px) and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (min-width: 1441px) and (min-resolution: 1.5dppx),
+only screen and (min-width: 1441px) and (min-resolution: 144dpi) {
+    .main [data-module-template="promos"] .unit-image-wrapper .unit-image.unit-image-tv-plus-multishow-jul25-tile-dj {
+        background-image: url("../images/atv_multishow_pachinko_promo__cauwwcyyn9hy_xlarge_2x.jpg");
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .main [data-module-template="promos"] .unit-image-wrapper .unit-image.unit-image-tv-plus-multishow-jul25-tile-dj {
+        background-image: url("../images/atv_multishow_pachinko_promo__cauwwcyyn9hy_medium.jpg");
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (max-width: 1068px) and (min-resolution: 1.5dppx),
+only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .main [data-module-template="promos"] .unit-image-wrapper .unit-image.unit-image-tv-plus-multishow-jul25-tile-dj {
+        background-image: url("../images/atv_multishow_pachinko_promo__cauwwcyyn9hy_medium_2x.jpg");
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .main [data-module-template="promos"] .unit-image-wrapper .unit-image.unit-image-tv-plus-multishow-jul25-tile-dj {
+        background-image: url("../images/atv_multishow_pachinko_promo__cauwwcyyn9hy_small.jpg");
+    }
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (max-width: 734px) and (min-resolution: 1.5dppx),
+only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+    .main [data-module-template="promos"] .unit-image-wrapper .unit-image.unit-image-tv-plus-multishow-jul25-tile-dj {
+        background-image: url("../images/atv_multishow_pachinko_promo__cauwwcyyn9hy_small_2x.jpg");
+    }
+}
+
+/*Fix for ATV+ with local banner expanded issues*/
+@media only screen and (min-width: 1441px) {
+    html.ac-ls-visible .main [data-module-template="promos"] [data-unit-id="tv-plus-multishow-jul25"] .unit-image-wrapper .unit-image {
+        height: 624px;
+    }
+}
+
+.logo-image-tv-plus-multishow-jul25-logo {
+    width: 86px;
+    height: 34px;
+    background-size: 86px 34px;
+    background-repeat: no-repeat;
+    background-image: url("../../../../../v/home/ae/images/logos/tv-plus-device-offer/logo__dcojfwkzna2q_large.png");
+    background-position: center;
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (min-resolution: 1.5dppx),
+(-webkit-min-device-pixel-ratio: 1.5),
+(min-resolution: 144dpi) {
+    .logo-image-tv-plus-multishow-jul25-logo {
+        background-image: url("../../../../../v/home/ae/images/logos/tv-plus-device-offer/logo__dcojfwkzna2q_large_2x.png");
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .logo-image-tv-plus-multishow-jul25-logo {
+        width: 68px;
+        height: 28px;
+        background-size: 68px 28px;
+        background-repeat: no-repeat;
+        background-image: url("../../../../../v/home/ae/images/logos/tv-plus-device-offer/logo__dcojfwkzna2q_medium.png");
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (max-width: 1068px) and (min-resolution: 1.5dppx),
+only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .logo-image-tv-plus-multishow-jul25-logo {
+        background-image: url("../../../../../v/home/ae/images/logos/tv-plus-device-offer/logo__dcojfwkzna2q_medium_2x.png");
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .logo-image-tv-plus-multishow-jul25-logo {
+        width: 68px;
+        height: 28px;
+        background-size: 68px 28px;
+        background-repeat: no-repeat;
+        background-image: url("../../../../../v/home/ae/images/logos/tv-plus-device-offer/logo__dcojfwkzna2q_small.png");
+    }
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (max-width: 734px) and (min-resolution: 1.5dppx),
+only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+    .logo-image-tv-plus-multishow-jul25-logo {
+        background-image: url("../../../../../v/home/ae/images/logos/tv-plus-device-offer/logo__dcojfwkzna2q_small_2x.png");
+    }
+}
+
+html.ac-ls-visible .main [data-module-template="promos"] [data-unit-id="tv-plus-multishow-jul25"] .unit-image-wrapper .unit-image {
+    margin-top: 0;
+}
+.main [data-module-template="promos"] [data-unit-id="tv-plus-multishow-jul25"] .unit-image-wrapper{
+	overflow: hidden;
+}
+/* end promos/tv-plus-multishow-jul25 */

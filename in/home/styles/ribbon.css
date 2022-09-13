@@ -1,0 +1,5 @@
+@media only screen and (max-width: 734px){
+.main [data-module-template="ribbon"] [data-unit-id="shop-online"] .covid-ribbon-copy, .main [data-module-template="ribbon"] [data-unit-id="shop-online"] .shop-ribbon-copy {
+	width:85%;
+}
+}
