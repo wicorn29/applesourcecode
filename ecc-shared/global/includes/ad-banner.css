@@ -1,0 +1,122 @@
+html.js, html.no-js {
+	margin-top: 50px !important;
+}
+html.ac-gn-segmentbar-visible #ac-gn-segmentbar {
+	z-index: 9999;
+}
+html.js .adv-wrapper, html.no-js .adv-wrapper {
+	top: 0;
+	position: fixed !important;
+	z-index: 9999;
+}
+.ac-gn-segmentbar-visible .adv-wrapper {
+	top: 0;
+	position: fixed !important;
+}
+
+html.ac-gn-segmentbar-visible .adv-wrapper {
+	z-index: 10001;
+}
+html #ac-globalnav {
+	top: 40px !important;
+}
+
+@media only screen and (max-width: 767px) {
+	html #ac-globalnav {
+		top: 44px !important;
+	}
+}
+
+html.ac-ls-visible #ac-localeswitcher {
+	position: fixed !important;
+	top: 0 !important;
+}
+
+@media only screen and (max-width: 767px) {
+	html:not(.aos) {
+		--global-nav-main-height: 48px !important;
+		--global-nav-collective-height: 48px !important;
+	}
+}
+
+@media only screen and (max-width: 605px) {
+	html #ac-globalnav {
+		top: 50px !important;
+	}
+
+	html:not(.aos) {
+		--global-nav-main-height: 60px !important;
+		--global-nav-collective-height: 60px !important;
+	}
+}
+
+html.ac-ls-visible #ac-globalnav {
+	position: fixed;
+	top: 70px !important;
+}
+
+html.ac-ls-visible .adv-wrapper {
+	top: 70px !important;
+}
+
+@media only screen and (max-width: 1023px) {
+	html.ac-ls-visible .adv-wrapper {
+		top: 70px !important;
+	}
+}
+
+@media only screen and (max-width: 767px) {
+	html.ac-ls-visible .adv-wrapper {
+		top: 135px !important;
+	}
+}
+
+html.ac-ls-visible #ac-globalnav {
+	top: 110px !important;
+}
+
+@media only screen and (max-width: 1023px) {
+	html.ac-ls-visible #ac-globalnav {
+		top: 110px !important;
+	}
+}
+
+@media only screen and (max-width: 767px) {
+	html.ac-ls-visible #ac-globalnav {
+		top: 179px !important;
+	}
+}
+
+@media only screen and (max-width: 605px) {
+	html.ac-ls-visible #ac-globalnav {
+		top: 189px !important;
+	}
+}
+
+/* Fixed globalnav background */
+@supports (
+	(-webkit-backdrop-filter: saturate(180%) blur(20px)) or
+		(backdrop-filter: saturate(180%) blur(20px))
+) {
+	#ac-globalnav {
+		background: rgba(0, 0, 0, 0.8);
+		-webkit-backdrop-filter: saturate(180%) blur(20px);
+		backdrop-filter: saturate(180%) blur(20px);
+	}
+}
+
+/* 
+fix for watch-se and tv-plus-device-offer tiles
+ */
+
+@media only screen and (max-width: 767px) {
+	html.ac-ls-visible .main [data-module-template="promos"] [data-unit-id="watch-se"] .unit-wrapper .unit-copy-wrapper {
+		margin-top: 40px !important;
+	}
+}
+
+@media only screen and (max-width: 767px) {
+	html.ac-ls-visible .main [data-module-template="promos"] [data-unit-id="tv-plus-device-offer"] .unit-image-wrapper .unit-image {
+		margin-top: 0px !important;
+	}
+}
